@@ -14,7 +14,9 @@ const fiveStarChars = [
     powerOneColor: 'green',
     powerTwoColor: 'black',
     powerThreeColor: 'yellow',
-    feeder: 'Medusa'
+    feeder: 'Medusa',
+    championThreshold: 450,
+    currentlyChamped: isChamped()
   },
   {
     name: 'Black Panther (Civil War)',
@@ -37,9 +39,9 @@ const fiveStarChars = [
     powerThree: 0,
     totalPowerLevel: 0,
     characterLevel: 255,
-    powerOneColor: 'green',
-    powerTwoColor: 'black',
-    powerThreeColor: 'yellow',
+    powerOneColor: 'purple',
+    powerTwoColor: 'red',
+    powerThreeColor: 'black',
     feeder: 'Black Widow'
   },
   {
@@ -50,9 +52,9 @@ const fiveStarChars = [
     powerThree: 0,
     totalPowerLevel: 0,
     characterLevel: 255,
-    powerOneColor: 'green',
-    powerTwoColor: 'black',
-    powerThreeColor: 'yellow',
+    powerOneColor: 'yellow',
+    powerTwoColor: 'red',
+    powerThreeColor: 'blue',
     feeder: 'Peggy Carter'
   },
   {
@@ -63,8 +65,8 @@ const fiveStarChars = [
     powerThree: 0,
     totalPowerLevel: 0,
     characterLevel: 255,
-    powerOneColor: 'green',
-    powerTwoColor: 'black',
+    powerOneColor: 'red',
+    powerTwoColor: 'purple',
     powerThreeColor: 'yellow',
     feeder: 'Winter Soldier'
   },
@@ -76,9 +78,9 @@ const fiveStarChars = [
     powerThree: 0,
     totalPowerLevel: 0,
     characterLevel: 255,
-    powerOneColor: 'green',
-    powerTwoColor: 'black',
-    powerThreeColor: 'yellow',
+    powerOneColor: 'yellow',
+    powerTwoColor: 'green',
+    powerThreeColor: 'purple',
     feeder: 'Kingpin'
   },
   {
@@ -89,13 +91,13 @@ const fiveStarChars = [
     powerThree: 0,
     totalPowerLevel: 0,
     characterLevel: 255,
-    powerOneColor: 'green',
-    powerTwoColor: 'black',
-    powerThreeColor: 'yellow',
+    powerOneColor: 'black',
+    powerTwoColor: 'blue',
+    powerThreeColor: 'green',
     feeder: 'Carnage'
   },
   {
-    name: 'Ghost Rider',
+    name: 'Ghost Rider (Robbie Reyes)',
     pic: 'someurl.com',
     powerOne: 0,
     powerTwo: 0,
@@ -103,9 +105,9 @@ const fiveStarChars = [
     totalPowerLevel: 0,
     characterLevel: 255,
     powerOneColor: 'green',
-    powerTwoColor: 'black',
-    powerThreeColor: 'yellow',
-    feeder: 'Ghost Rider'
+    powerTwoColor: 'red',
+    powerThreeColor: 'black',
+    feeder: 'Ghost Rider (Johnny Blaze)'
   },
   {
     name: 'Green Goblin',
@@ -115,8 +117,8 @@ const fiveStarChars = [
     powerThree: 0,
     totalPowerLevel: 0,
     characterLevel: 255,
-    powerOneColor: 'green',
-    powerTwoColor: 'black',
+    powerOneColor: 'black',
+    powerTwoColor: 'purple',
     powerThreeColor: 'yellow',
     feeder: 'Sandman'
   },
@@ -128,9 +130,9 @@ const fiveStarChars = [
     powerThree: 0,
     totalPowerLevel: 0,
     characterLevel: 255,
-    powerOneColor: 'green',
-    powerTwoColor: 'black',
-    powerThreeColor: 'yellow',
+    powerOneColor: 'purple',
+    powerTwoColor: 'blue',
+    powerThreeColor: 'red',
     feeder: 'Kate Bishop'
   },
   {
@@ -141,8 +143,8 @@ const fiveStarChars = [
     powerThree: 0,
     totalPowerLevel: 0,
     characterLevel: 255,
-    powerOneColor: 'green',
-    powerTwoColor: 'black',
+    powerOneColor: 'red',
+    powerTwoColor: 'blue',
     powerThreeColor: 'yellow',
     feeder: 'War Machine'
   },
@@ -155,8 +157,8 @@ const fiveStarChars = [
     totalPowerLevel: 0,
     characterLevel: 255,
     powerOneColor: 'green',
-    powerTwoColor: 'black',
-    powerThreeColor: 'yellow',
+    powerTwoColor: 'purple',
+    powerThreeColor: 'red',
     feeder: 'Jubilee'
   },
   {
@@ -167,9 +169,9 @@ const fiveStarChars = [
     powerThree: 0,
     totalPowerLevel: 0,
     characterLevel: 255,
-    powerOneColor: 'green',
+    powerOneColor: 'red',
     powerTwoColor: 'black',
-    powerThreeColor: 'yellow',
+    powerThreeColor: 'blue',
     feeder: 'America Chavez'
   },
   {
@@ -180,9 +182,9 @@ const fiveStarChars = [
     powerThree: 0,
     totalPowerLevel: 0,
     characterLevel: 255,
-    powerOneColor: 'green',
-    powerTwoColor: 'black',
-    powerThreeColor: 'yellow',
+    powerOneColor: 'purple',
+    powerTwoColor: 'green',
+    powerThreeColor: 'black',
     feeder: 'The Hulk (Main Event)'
   },
   {
@@ -193,9 +195,9 @@ const fiveStarChars = [
     powerThree: 0,
     totalPowerLevel: 0,
     characterLevel: 255,
-    powerOneColor: 'green',
-    powerTwoColor: 'black',
-    powerThreeColor: 'yellow',
+    powerOneColor: 'black',
+    powerTwoColor: 'yellow',
+    powerThreeColor: 'red',
     feeder: 'Shuri'
   },
   {
@@ -206,9 +208,9 @@ const fiveStarChars = [
     powerThree: 0,
     totalPowerLevel: 0,
     characterLevel: 255,
-    powerOneColor: 'green',
-    powerTwoColor: 'black',
-    powerThreeColor: 'yellow',
+    powerOneColor: 'blue',
+    powerTwoColor: 'red',
+    powerThreeColor: 'black',
     feeder: 'Mr. Fantastic'
   },
   {
@@ -219,9 +221,9 @@ const fiveStarChars = [
     powerThree: 0,
     totalPowerLevel: 0,
     characterLevel: 255,
-    powerOneColor: 'green',
-    powerTwoColor: 'black',
-    powerThreeColor: 'yellow',
+    powerOneColor: 'blue',
+    powerTwoColor: 'green',
+    powerThreeColor: 'purple',
     feeder: 'Spider-Man (Infinity War)'
   },
   {
@@ -232,9 +234,9 @@ const fiveStarChars = [
     powerThree: 0,
     totalPowerLevel: 0,
     characterLevel: 255,
-    powerOneColor: 'green',
-    powerTwoColor: 'black',
-    powerThreeColor: 'yellow',
+    powerOneColor: 'blue',
+    powerTwoColor: 'green',
+    powerThreeColor: 'red',
     feeder: 'Vulture'
   },
   {
@@ -245,9 +247,9 @@ const fiveStarChars = [
     powerThree: 0,
     totalPowerLevel: 0,
     characterLevel: 255,
-    powerOneColor: 'green',
-    powerTwoColor: 'black',
-    powerThreeColor: 'yellow',
+    powerOneColor: 'yellow',
+    powerTwoColor: 'purple',
+    powerThreeColor: 'green',
     feeder: 'Drax'
   },
   {
@@ -258,9 +260,9 @@ const fiveStarChars = [
     powerThree: 0,
     totalPowerLevel: 0,
     characterLevel: 255,
-    powerOneColor: 'green',
-    powerTwoColor: 'black',
-    powerThreeColor: 'yellow',
+    powerOneColor: 'black',
+    powerTwoColor: 'purple',
+    powerThreeColor: 'green',
     feeder: 'Gamora'
   },
   {
@@ -272,7 +274,7 @@ const fiveStarChars = [
     totalPowerLevel: 0,
     characterLevel: 255,
     powerOneColor: 'green',
-    powerTwoColor: 'black',
+    powerTwoColor: 'red',
     powerThreeColor: 'yellow',
     feeder: 'Valkyrie'
   },
@@ -284,9 +286,9 @@ const fiveStarChars = [
     powerThree: 0,
     totalPowerLevel: 0,
     characterLevel: 255,
-    powerOneColor: 'green',
-    powerTwoColor: 'black',
-    powerThreeColor: 'yellow',
+    powerOneColor: 'blue',
+    powerTwoColor: 'yellow',
+    powerThreeColor: 'black',
     feeder: 'Ant-Man'
   },
   {
@@ -297,9 +299,9 @@ const fiveStarChars = [
     powerThree: 0,
     totalPowerLevel: 0,
     characterLevel: 255,
-    powerOneColor: 'green',
-    powerTwoColor: 'black',
-    powerThreeColor: 'yellow',
+    powerOneColor: 'black',
+    powerTwoColor: 'yellow',
+    powerThreeColor: 'red',
     feeder: 'Wolverine (X-Force)'
   }
 ];
@@ -309,3 +311,13 @@ const fourStarChars = [];
 const threeStarChars = [];
 
 const twoStarChars = [];
+
+const determineNextCover = (characterLevel, rewardLevels) => {
+  for (let i = 0; i < rewardLevels.length; i++) {
+    if (characterLevel < rewardLevels[i]) {
+      return `You get a new cover in ${rewardLevels[i] - characterLevel} levels.`;
+    }
+  }
+}
+
+const isChamped = (charLevel, championThreshold) => (charLevel >= championThreshold) ? true : false;
