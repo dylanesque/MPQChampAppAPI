@@ -1,13 +1,12 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react';
+
+import Header from './components/Header'
 
 class App extends Component {
-  state = {  }
+
   render() {
-    return ( <div>I'm an App!</div> );
+    return ( <Header /> );
   }
 }
 
 export default App;
-
-ReactDOM.render(<App />, document.getElementById('root'));
