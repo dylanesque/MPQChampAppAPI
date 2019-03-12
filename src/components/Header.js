@@ -1,34 +1,18 @@
-import React from "react";
-import styled from "styled-components";
+import React from "react"
 
 const Header = () => {
   return (
-    <PageHeader>
-      <Heading>MPQ Champion Tracker</Heading>
-      <Navbar>
-
-      </Navbar>
-    </PageHeader>
+    <nav>
+    <div class="nav-wrapper purple darken-4">
+      <a href="#" className="brand-logo">MPQ Champ Tracker</a>
+      <ul id="nav-mobile" className="right hide-on-med-and-down">
+        <li><a href="">About</a></li>
+        <li><a href="">Sign Out</a></li>
+      </ul>
+    </div>
+  </nav>
   );
 };
 
-const Heading = styled.h1`
-  color: white;
-  margin: 0;
-  padding: 2rem 1rem;
-`;
-
-const Navbar = styled.navbar`
-
-`;
-
-const NavLink = styled.li`
-  
-`;
-
-const PageHeader = styled.div`
-  background-color: #1a53ff;
-  display: flex;
-`;
-
 export default Header;
+
