@@ -12,9 +12,15 @@
 
 The application logic will be focused on the next usable cover for a character as the ideal reward, when all other considerations (such as character level) are equal. For example, 4* character Winter Soldier gives out covers for 5* Infinity War Captain America, and in my personal instance of the app, Winter Soldier is at level 299, due to receive a purple Cap cover at level 300, and is the 4* character who's closest to a cover reward for me. Let's say that my 5* Captain America already has 5 covers in his purple power (5 is the maximum number of levels for an individual power). In an instance like this, the application will look to the next closest character due for a cover reward, since the redundant Cap cover does nothing to make my lineup more powerful at that time.
 
+<<<<<<< HEAD
 **Technology Used** React is the clear choice for a front-end framework/view layer, for it's strengths as a reusable component-based view layer, and my own proficiency in it. I've given some thought to the back-end, and for the time being, it's going to be as simple as I can keep it. I will start with a RESTful architecture, with a basic database containing initial state information about characters being served via a JSON file hosted on Heroku, or a MongoDB db hosted as an mLab instance. If there are performance issues later on, which I doubt, I will refactor to use GraphQL instead. I will be using Rails as the back-end for the application for it's maturity and number of solved problems in that arena.
 
 For styling, I'll look to the Materialize CSS library to get that opinionated Material look, and the styled-components library. styled-components made building my portfolio a delight, so I'm looking forward to utilizing it from scratch, rather than refactor an existing project into it.
+=======
+**Technology Used** React is the clear choice for a front-end framework, for it's strengths as a reusable component-based view layer, and my own proficiency in it. I've given some thought to the back-end, and for the time being, it's going to be as simple as I can keep it. I will start with a RESTful architecture, with a basic database containing initial state information about characters being served via a JSON file hosted on Heroku, or a MongoDB db hosted as an mLab instance, something to that effect. If there are performance issues later on, which I doubt, I will refactor to use GraphQL instead.
+
+For styling, I'll look to the Materialize CSS library to get that opinionated Material look, and the styled-components library. styled-components made building my portfolio a delight, so I'm looking forward to utilizing it from scratch, rather than refactor an existing project into it. 
+>>>>>>> a7d036e1c28c4958baddbb31fdc5465abbb7387e
 
 ** What's Happening Now? **
 
