@@ -17,6 +17,6 @@ the necessary character seed data, which will be read and utilized by a Rails ap
 
 For styling, I'll look to the Materialize CSS library to get that opinionated Material look, and the styled-components library. styled-components made building my portfolio a delight, so I'm looking forward to utilizing it from scratch, rather than refactor an existing project into it.
 
-** What's Happening Now? **
+**What's Happening Now?**
 
 Right now, I'm working on the initial JSON dataset with characters that will be migrated to a user databsse upon app sign up.
