@@ -1,0 +1,19 @@
+{
+  "characters": [
+    {
+      "id": 666,
+      "name": "Black Bolt (Inhuman King)",
+      "image": "placeholder",
+      "rarity": 5,
+      "powerOneLevel": 0,
+      "powerTwoLevel": 0,
+      "powerThreeLevel": 0,
+      "powerOneColor": "green",
+      "powerTwoColor": "black",
+      "powerThreeColor": "yellow",
+      "feedeeId": 0,
+      "feederId": 12,
+      "charLevel": 255
+    }
+  ]
+}
