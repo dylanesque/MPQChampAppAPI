@@ -19,4 +19,4 @@ For styling, I'll look to the Materialize CSS library to get that opinionated Ma
 
 **What's Happening Now?**
 
-Right now, I'm working on the initial JSON dataset with characters that will be migrated to a user database upon app sign up.
+Right now, I'm working on the initial JSON dataset with characters that will be migrated to a user database upon app sign up. The codebase is successfully rendering the API to the browser, so current steps are to complete the dataset and deploy the API.
