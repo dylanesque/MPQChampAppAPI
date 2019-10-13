@@ -10,7 +10,7 @@ const app = express();
 app.use(pretty({ query: "pretty" }));
 
 // Rendering logic for database
-const database = app.get("/", (req, res) => {
+app.get("/", (req, res) => {
   res.status(200).json(seeds);
 });
 
