@@ -223,7 +223,7 @@
       "charLevel": 15
     },
     {
-      "id": 15,
+      "id": 16,
       "name": "Bullseye (Classic)",
       "image": "#",
       "rarity": 3,
@@ -238,7 +238,7 @@
       "charLevel": 40
     },
     {
-      "id": 16,
+      "id": 17,
       "name": "Captain America (The First Avenger)",
       "image": "#",
       "rarity": 5,
@@ -253,7 +253,7 @@
       "charLevel": 255
     },
     {
-      "id": 17,
+      "id": 18,
       "name": "Captain America (Infinity War)",
       "image": "#",
       "rarity": 5,
@@ -268,7 +268,7 @@
       "charLevel": 255
     },
     {
-      "id": 18,
+      "id": 19,
       "name": "Captain America (Super Soldier)",
       "image": "#",
       "rarity": 3,
@@ -283,7 +283,7 @@
       "charLevel": 40
     },
     {
-      "id": 19,
+      "id": 20,
       "name": "Captain America (Steve Rogers)",
       "image": "#",
       "rarity": 5,
@@ -298,7 +298,7 @@
       "charLevel": 15
     },
     {
-      "id": 20,
+      "id": 21,
       "name": "Captain Marvel (Galactic Warrior)",
       "image": "#",
       "rarity": 5,
@@ -313,7 +313,7 @@
       "charLevel": 255
     },
     {
-      "id": 21,
+      "id": 22,
       "name": "Captain Marvel (Carol Danvers)",
       "image": "#",
       "rarity": 4,
@@ -328,7 +328,7 @@
       "charLevel": 70
     },
     {
-      "id": 22,
+      "id": 23,
       "name": "Captain Marvel (Modern)",
       "image": "#",
       "rarity": 3,
@@ -343,7 +343,7 @@
       "charLevel": 40
     },
     {
-      "id": 23,
+      "id": 24,
       "name": "Captain Marvel (Ms. Marvel)",
       "image": "#",
       "rarity": 2,
@@ -358,7 +358,7 @@
       "charLevel": 15
     },
     {
-      "id": 24,
+      "id": 25,
       "name": "Carnage (Cletus Kassady)",
       "image": "#",
       "rarity": 4,
@@ -373,7 +373,7 @@
       "charLevel": 70
     },
     {
-      "id": 25,
+      "id": 26,
       "name": "Colossus (Classic)",
       "image": "#",
       "rarity": 3,
@@ -388,7 +388,7 @@
       "charLevel": 40
     },
     {
-      "id": 26,
+      "id": 27,
       "name": "Cyclops (Classic)",
       "image": "#",
       "rarity": 4,
@@ -403,7 +403,7 @@
       "charLevel": 70
     },
     {
-      "id": 27,
+      "id": 28,
       "name": "Cyclops (Uncanny X-Men)",
       "image": "#",
       "rarity": 3,
@@ -418,7 +418,7 @@
       "charLevel": 40
     },
     {
-      "id": 27,
+      "id": 29,
       "name": "Daken (Dark Avengers)",
       "image": "#",
       "rarity": 2,
@@ -433,7 +433,7 @@
       "charLevel": 15
     },
     {
-      "id": 27,
+      "id": 30,
       "name": "Daken (Classic)",
       "image": "#",
       "rarity": 3,
@@ -448,7 +448,7 @@
       "charLevel": 40
     },
     {
-      "id": 27,
+      "id": 31,
       "name": "Daredevil (Man Without Fear)",
       "image": "#",
       "rarity": 3,
@@ -463,7 +463,7 @@
       "charLevel": 40
     },
     {
-      "id": 666,
+      "id": 32,
       "name": "Daredevil (Matt Murdock)",
       "image": "#",
       "rarity": 5,
@@ -478,8 +478,98 @@
       "charLevel": 255
     },
     {
-      "id": 666,
-      "name": "Doctor Strange",
+      "id": 33,
+      "name": "Deadpool (It's Me, Deadpool!)",
+      "image": "#",
+      "rarity": 3,
+      "powerOneLevel": 0,
+      "powerTwoLevel": 0,
+      "powerThreeLevel": 0,
+      "powerOneColor": "red",
+      "powerTwoColor": "purple",
+      "powerThreeColor": "black",
+      "feedeeId": 0,
+      "feederId": 12,
+      "charLevel": 255
+    },
+    {
+      "id": 34,
+      "name": "Deadpool (Uncanny X-Force)",
+      "image": "#",
+      "rarity": 4,
+      "powerOneLevel": 0,
+      "powerTwoLevel": 0,
+      "powerThreeLevel": 0,
+      "powerOneColor": "red",
+      "powerTwoColor": "black",
+      "powerThreeColor": "purple",
+      "feedeeId": 0,
+      "feederId": 12,
+      "charLevel": 255
+    },
+    {
+      "id": 35,
+      "name": "Doctor Doom (Classic)",
+      "image": "#",
+      "rarity": 5,
+      "powerOneLevel": 0,
+      "powerTwoLevel": 0,
+      "powerThreeLevel": 0,
+      "powerOneColor": "black",
+      "powerTwoColor": "blue",
+      "powerThreeColor": "purple",
+      "feedeeId": 0,
+      "feederId": 12,
+      "charLevel": 40
+    },
+    {
+      "id": 36,
+      "name": "Doctor Octopus (Otto Octavius)",
+      "image": "#",
+      "rarity": 5,
+      "powerOneLevel": 0,
+      "powerTwoLevel": 0,
+      "powerThreeLevel": 0,
+      "powerOneColor": "blue",
+      "powerTwoColor": "black",
+      "powerThreeColor": "green",
+      "feedeeId": 0,
+      "feederId": 12,
+      "charLevel": 255
+    },
+    {
+      "id": 37,
+      "name": "Doctor Octopus (Classic)",
+      "image": "#",
+      "rarity": 5,
+      "powerOneLevel": 0,
+      "powerTwoLevel": 0,
+      "powerThreeLevel": 0,
+      "powerOneColor": "black",
+      "powerTwoColor": "blue",
+      "powerThreeColor": "green",
+      "feedeeId": 0,
+      "feederId": 12,
+      "charLevel": 255
+    },
+    {
+      "id": 38,
+      "name": "Doctor Strange (Stephen Strange)",
+      "image": "#",
+      "rarity": 5,
+      "powerOneLevel": 0,
+      "powerTwoLevel": 0,
+      "powerThreeLevel": 0,
+      "powerOneColor": "blue",
+      "powerTwoColor": "purple",
+      "powerThreeColor": "yellow",
+      "feedeeId": 0,
+      "feederId": 12,
+      "charLevel": 40
+    },
+    {
+      "id": 39,
+      "name": "Doctor Strange (Sorcerer Supreme)",
       "image": "#",
       "rarity": 5,
       "powerOneLevel": 0,
@@ -493,19 +583,19 @@
       "charLevel": 255
     },
     {
-      "id": 666,
-      "name": "Doctor Octopus (Classic)",
+      "id": 40,
+      "name": "Drax (The Destroyer)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "black",
-      "powerTwoColor": "blue",
-      "powerThreeColor": "green",
+      "powerTwoColor": "purple",
+      "powerThreeColor": "red",
       "feedeeId": 0,
       "feederId": 12,
-      "charLevel": 255
+      "charLevel": 70
     },
     {
       "id": 666,
