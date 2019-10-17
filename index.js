@@ -5,6 +5,7 @@ const seeds = require("./db.json");
 
 // Creates the Express app
 const app = express();
+const port = process.env.PORT || 6767;
 
 // Middleware to pretty-print json
 app.use(pretty({ query: "pretty" }));
@@ -14,7 +15,9 @@ app.get("/", (req, res) => {
   res.status(200).json(seeds);
 });
 
+
+
 // Starts the app
-const server = app.listen(3000, () => {
+const server = app.listen(port, () => {
   console.log("This is working!");
 });
