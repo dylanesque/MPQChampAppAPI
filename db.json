@@ -12,7 +12,7 @@
     "powerTwoColor": "yellow",
     "powerThreeColor": "green",
     "feedeeId": 0,
-    "feederId": 12,
+    "feederId": 0,
     "charLevel": 70
   },
   {
@@ -194,22 +194,22 @@
     },
     {
       "id": 14,
-      "name": "Blade (Daywalker)",
+      "name": "Blade (Modern)",
       "image": "#",
-      "rarity": 3,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
-      "powerOneColor": "black",
-      "powerTwoColor": "purple",
-      "powerThreeColor": "green",
+      "powerOneColor": "red",
+      "powerTwoColor": "green",
+      "powerThreeColor": "black",
       "feedeeId": 0,
       "feederId": 0,
-      "charLevel": 40
+      "charLevel": 70
     },
     {
-      "id": 666,
-      "name": "Blade (Modern)",
+      "id": 15,
+      "name": "Blade (Daywalker)",
       "image": "#",
       "rarity": 3,
       "powerOneLevel": 0,
@@ -223,7 +223,7 @@
       "charLevel": 40
     },
     {
-      "id": 15,
+      "id": 16,
       "name": "Bullseye (Dark Avengers)",
       "image": "#",
       "rarity": 2,
@@ -238,7 +238,7 @@
       "charLevel": 15
     },
     {
-      "id": 16,
+      "id": 17,
       "name": "Bullseye (Classic)",
       "image": "#",
       "rarity": 3,
@@ -253,7 +253,7 @@
       "charLevel": 40
     },
     {
-      "id": 17,
+      "id": 18,
       "name": "Captain America (The First Avenger)",
       "image": "#",
       "rarity": 5,
@@ -268,7 +268,7 @@
       "charLevel": 255
     },
     {
-      "id": 18,
+      "id": 19,
       "name": "Captain America (Infinity War)",
       "image": "#",
       "rarity": 5,
@@ -283,7 +283,7 @@
       "charLevel": 255
     },
     {
-      "id": 19,
+      "id": 20,
       "name": "Captain America (Super Soldier)",
       "image": "#",
       "rarity": 3,
@@ -298,22 +298,22 @@
       "charLevel": 40
     },
     {
-      "id": 20,
+      "id": 21,
       "name": "Captain America (Steve Rogers)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 2,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
-      "powerOneColor": "red",
-      "powerTwoColor": "purple",
-      "powerThreeColor": "yellow",
+      "powerOneColor": "yellow",
+      "powerTwoColor": "red",
+      "powerThreeColor": "blue",
       "feedeeId": 0,
       "feederId": 0,
       "charLevel": 15
     },
     {
-      "id": 21,
+      "id": 22,
       "name": "Captain Marvel (Galactic Warrior)",
       "image": "#",
       "rarity": 5,
@@ -328,7 +328,7 @@
       "charLevel": 255
     },
     {
-      "id": 22,
+      "id": 23,
       "name": "Captain Marvel (Carol Danvers)",
       "image": "#",
       "rarity": 4,
@@ -343,7 +343,7 @@
       "charLevel": 70
     },
     {
-      "id": 23,
+      "id": 24,
       "name": "Captain Marvel (Modern)",
       "image": "#",
       "rarity": 3,
@@ -358,7 +358,7 @@
       "charLevel": 40
     },
     {
-      "id": 24,
+      "id": 25,
       "name": "Captain Marvel (Ms. Marvel)",
       "image": "#",
       "rarity": 2,
@@ -373,7 +373,7 @@
       "charLevel": 15
     },
     {
-      "id": 25,
+      "id": 26,
       "name": "Carnage (Cletus Kassady)",
       "image": "#",
       "rarity": 4,
@@ -388,7 +388,7 @@
       "charLevel": 70
     },
     {
-      "id": 26,
+      "id": 27,
       "name": "Colossus (Classic)",
       "image": "#",
       "rarity": 3,
@@ -403,7 +403,7 @@
       "charLevel": 40
     },
     {
-      "id": 27,
+      "id": 28,
       "name": "Cyclops (Classic)",
       "image": "#",
       "rarity": 4,
@@ -418,7 +418,7 @@
       "charLevel": 70
     },
     {
-      "id": 28,
+      "id": 29,
       "name": "Cyclops (Uncanny X-Men)",
       "image": "#",
       "rarity": 3,
@@ -433,7 +433,7 @@
       "charLevel": 40
     },
     {
-      "id": 29,
+      "id": 30,
       "name": "Daken (Dark Avengers)",
       "image": "#",
       "rarity": 2,
