@@ -11,7 +11,7 @@
       "powerOneColor": "red",
       "powerTwoColor": "yellow",
       "powerThreeColor": "green",
-      "feedeeId": 0,
+      "feedeeId": 69,
       "feederId": 0,
       "charLevel": 70
     },
@@ -26,8 +26,8 @@
       "powerOneColor": "blue",
       "powerTwoColor": "black",
       "powerThreeColor": "green",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 68,
+      "feederId": 0,
       "charLevel": 40
     },
     {
@@ -41,8 +41,8 @@
       "powerOneColor": "purple",
       "powerTwoColor": "blue",
       "powerThreeColor": "yellow",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 133,
+      "feederId": 115,
       "charLevel": 70
     },
     {
@@ -1982,7 +1982,7 @@
     },
     {
       "id": 133,
-      "name": "Wasp (Hope Van Dyne)",
+      "name": " (Hope Van Dyne)",
       "image": "#",
       "rarity": 5,
       "powerOneLevel": 0,
