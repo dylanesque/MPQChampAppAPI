@@ -71,8 +71,8 @@
       "powerOneColor": "blue",
       "powerTwoColor": "green",
       "powerThreeColor": "yellow",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 68,
+      "feederId": 0,
       "charLevel": 40
     },
     {
@@ -87,7 +87,7 @@
       "powerTwoColor": "black",
       "powerThreeColor": "yellow",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 81,
       "charLevel": 255
     },
     {
@@ -116,8 +116,8 @@
       "powerOneColor": "yellow",
       "powerTwoColor": "blue",
       "powerThreeColor": "red",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 7,
+      "feederId": 0,
       "charLevel": 70
     },
     {
@@ -131,8 +131,8 @@
       "powerOneColor": "yellow",
       "powerTwoColor": "blue",
       "powerThreeColor": "black",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 86,
+      "feederId": 0,
       "charLevel": 40
     },
     {
@@ -161,8 +161,8 @@
       "powerOneColor": "black",
       "powerTwoColor": "purple",
       "powerThreeColor": "yellow",
-      "feedeeId": 0,
-      "feederId": 11,
+      "feedeeId": 10,
+      "feederId": 0,
       "charLevel": 70
     },
     {
@@ -207,7 +207,7 @@
       "powerTwoColor": "green",
       "powerThreeColor": "black",
       "feedeeId": 0,
-      "feederId": 0,
+      "feederId": 15,
       "charLevel": 70
     },
     {
@@ -221,8 +221,8 @@
       "powerOneColor": "black",
       "powerTwoColor": "purple",
       "powerThreeColor": "green",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 14,
+      "feederId": 0,
       "charLevel": 40
     },
     {
@@ -236,7 +236,7 @@
       "powerOneColor": "purple",
       "powerTwoColor": "black",
       "powerThreeColor": "green",
-      "feedeeId": 0,
+      "feedeeId": 17,
       "feederId": 0,
       "charLevel": 15
     },
@@ -251,8 +251,8 @@
       "powerOneColor": "purple",
       "powerTwoColor": "black",
       "powerThreeColor": "green",
-      "feedeeId": 0,
-      "feederId": 0,
+      "feedeeId": 74,
+      "feederId": 16,
       "charLevel": 40
     },
     {
@@ -1939,16 +1939,16 @@
       "id": 130,
       "name": "Vision (Android Avenger)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "blue",
       "powerTwoColor": "red",
       "powerThreeColor": "yellow",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feedeeId": 134,
+      "feederId": 0,
+      "charLevel": 40
     },
     {
       "id": 131,
