@@ -461,7 +461,7 @@
       "powerOneColor": "red",
       "powerTwoColor": "yellow",
       "powerThreeColor": "black",
-      "feedeeId": 0,
+      "feedeeId": 140,
       "feederId": 30,
       "charLevel": 40
     },
@@ -476,8 +476,8 @@
       "powerOneColor": "purple",
       "powerTwoColor": "blue",
       "powerThreeColor": "red",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 43,
+      "feederId": 0,
       "charLevel": 40
     },
     {
@@ -492,7 +492,7 @@
       "powerTwoColor": "purple",
       "powerThreeColor": "green",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 74,
       "charLevel": 255
     },
     {
@@ -506,8 +506,8 @@
       "powerOneColor": "red",
       "powerTwoColor": "purple",
       "powerThreeColor": "black",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 35,
+      "feederId": 0,
       "charLevel": 255
     },
     {
@@ -522,7 +522,7 @@
       "powerTwoColor": "black",
       "powerThreeColor": "purple",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 34,
       "charLevel": 255
     },
     {
@@ -536,8 +536,8 @@
       "powerOneColor": "black",
       "powerTwoColor": "blue",
       "powerThreeColor": "purple",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 61,
+      "feederId": 0,
       "charLevel": 40
     },
     {
@@ -574,15 +574,15 @@
       "id": 39,
       "name": "Doctor Strange (Stephen Strange)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "blue",
       "powerTwoColor": "purple",
       "powerThreeColor": "yellow",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 89,
+      "feederId": 0,
       "charLevel": 40
     },
     {
@@ -597,7 +597,7 @@
       "powerTwoColor": "purple",
       "powerThreeColor": "yellow",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 85,
       "charLevel": 255
     },
     {
@@ -611,8 +611,8 @@
       "powerOneColor": "black",
       "powerTwoColor": "purple",
       "powerThreeColor": "red",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 116,
+      "feederId": 0,
       "charLevel": 70
     },
     {
@@ -642,7 +642,7 @@
       "powerTwoColor": "black",
       "powerThreeColor": "red",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 32,
       "charLevel": 70
     },
     {
@@ -904,7 +904,7 @@
       "id": 61,
       "name": "Invisible Woman (Classic)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
@@ -912,7 +912,7 @@
       "powerTwoColor": "blue",
       "powerThreeColor": "green",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 36,
       "charLevel": 70
     },
     {
@@ -957,23 +957,23 @@
       "powerTwoColor": "red",
       "powerThreeColor": "blue",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 132,
       "charLevel": 255
     },
     {
       "id": 65,
       "name": "Iron Man (Model 40)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "red",
       "powerTwoColor": "blue",
       "powerThreeColor": "yellow",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 255
+      "feedeeId": 66,
+      "feederId": 0,
+      "charLevel": 40
     },
     {
       "id": 66,
@@ -987,7 +987,7 @@
       "powerTwoColor": "black",
       "powerThreeColor": "blue",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 65,
       "charLevel": 255
     },
     {
@@ -1002,8 +1002,8 @@
       "powerTwoColor": "purple",
       "powerThreeColor": "red",
       "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feederId": 70,
+      "charLevel": 255
     },
     {
       "id": 68,
@@ -1017,12 +1017,12 @@
       "powerTwoColor": "purple",
       "powerThreeColor": "blue",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": [2,5],
       "charLevel": 70
     },
     {
       "id": 69,
-      "name": "Jessica Jones (ALias Investigations)",
+      "name": "Jessica Jones (Alias Investigations)",
       "image": "#",
       "rarity": 5,
       "powerOneLevel": 0,
@@ -1039,16 +1039,16 @@
       "id": 70,
       "name": "Jubilee (Uncanny X-Men)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "yellow",
       "powerTwoColor": "purple",
       "powerThreeColor": "green",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feedeeId": 67,
+      "feederId": 0,
+      "charLevel": 70
     },
     {
       "id": 71,
@@ -1106,7 +1106,7 @@
       "powerOneColor": "black",
       "powerTwoColor": "purple",
       "powerThreeColor": "yellow",
-      "feedeeId": 0,
+      "feedeeId": 33,
       "feederId": 12,
       "charLevel": 70
     },
@@ -1271,8 +1271,8 @@
       "powerOneColor": "black",
       "powerTwoColor": "blue",
       "powerThreeColor": "purple",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 40,
+      "feederId": 0,
       "charLevel": 15
     },
     {
@@ -1332,7 +1332,7 @@
       "powerTwoColor": "yellow",
       "powerThreeColor": "black",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 39,
       "charLevel": 70
     },
     {
@@ -1451,8 +1451,8 @@
       "powerOneColor": "blue",
       "powerTwoColor": "green",
       "powerThreeColor": "red",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 140,
+      "feederId": 4,
       "charLevel": 40
     },
     {
@@ -1737,8 +1737,8 @@
       "powerTwoColor": "purple",
       "powerThreeColor": "green",
       "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feederId": 41,
+      "charLevel": 255
     },
     {
       "id": 117,
@@ -2007,7 +2007,7 @@
       "powerTwoColor": "blue",
       "powerThreeColor": "black",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 130,
       "charLevel": 255
     },
     {
@@ -2097,7 +2097,7 @@
       "powerTwoColor": "red",
       "powerThreeColor": "purple",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": [31, 97],
       "charLevel": 255
     }
   ]
