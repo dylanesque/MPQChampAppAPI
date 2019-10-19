@@ -267,7 +267,7 @@
       "powerTwoColor": "red",
       "powerThreeColor": "blue",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 91,
       "charLevel": 255
     },
     {
@@ -282,7 +282,7 @@
       "powerTwoColor": "purple",
       "powerThreeColor": "yellow",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 135,
       "charLevel": 255
     },
     {
@@ -327,7 +327,7 @@
       "powerTwoColor": "green",
       "powerThreeColor": "yellow",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 23,
       "charLevel": 255
     },
     {
@@ -341,8 +341,8 @@
       "powerOneColor": "black",
       "powerTwoColor": "yellow",
       "powerThreeColor": "green",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 22,
+      "feederId": 24,
       "charLevel": 70
     },
     {
@@ -356,7 +356,7 @@
       "powerOneColor": "black",
       "powerTwoColor": "yellow",
       "powerThreeColor": "green",
-      "feedeeId": 0,
+      "feedeeId": 23,
       "feederId": 25,
       "charLevel": 40
     },
@@ -386,8 +386,8 @@
       "powerOneColor": "red",
       "powerTwoColor": "black",
       "powerThreeColor": "green",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 38,
+      "feederId": 37,
       "charLevel": 70
     },
     {
@@ -401,8 +401,8 @@
       "powerOneColor": "yellow",
       "powerTwoColor": "red",
       "powerThreeColor": "black",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 139,
+      "feederId": 0,
       "charLevel": 40
     },
     {
@@ -417,7 +417,7 @@
       "powerTwoColor": "yellow",
       "powerThreeColor": "blue",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 29,
       "charLevel": 70
     },
     {
@@ -431,8 +431,8 @@
       "powerOneColor": "red",
       "powerTwoColor": "yellow",
       "powerThreeColor": "black",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 28,
+      "feederId": 0,
       "charLevel": 40
     },
     {
@@ -551,8 +551,8 @@
       "powerOneColor": "blue",
       "powerTwoColor": "black",
       "powerThreeColor": "green",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 26,
+      "feederId": 0,
       "charLevel": 255
     },
     {
@@ -567,7 +567,7 @@
       "powerTwoColor": "blue",
       "powerThreeColor": "green",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 26,
       "charLevel": 255
     },
     {
@@ -619,15 +619,15 @@
       "id": 42,
       "name": "Elektra (Assassin)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "purple",
       "powerTwoColor": "black",
       "powerThreeColor": "red",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 43,
+      "feederId": 0,
       "charLevel": 40
     },
     {
@@ -702,7 +702,7 @@
       "powerTwoColor": "red",
       "powerThreeColor": "black",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 48,
       "charLevel": 255
     },
     {
@@ -716,8 +716,8 @@
       "powerOneColor": "green",
       "powerTwoColor": "red",
       "powerThreeColor": "black",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 47,
+      "feederId": 0,
       "charLevel": 70
     },
     {
@@ -1361,7 +1361,7 @@
       "powerOneColor": "red",
       "powerTwoColor": "yellow",
       "powerThreeColor": "blue",
-      "feedeeId": 0,
+      "feedeeId": 18,
       "feederId": 12,
       "charLevel": 15
     },
@@ -1982,7 +1982,7 @@
     },
     {
       "id": 133,
-      "name": " (Hope Van Dyne)",
+      "name": "Wasp (Hope Van Dyne)",
       "image": "#",
       "rarity": 5,
       "powerOneLevel": 0,
@@ -1992,7 +1992,7 @@
       "powerTwoColor": "yellow",
       "powerThreeColor": "black",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 3,
       "charLevel": 255
     },
     {
@@ -2021,8 +2021,8 @@
       "powerOneColor": "purple",
       "powerTwoColor": "blue",
       "powerThreeColor": "red",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 19,
+      "feederId": 20,
       "charLevel": 70
     },
     {
@@ -2051,7 +2051,7 @@
       "powerOneColor": "green",
       "powerTwoColor": "red",
       "powerThreeColor": "yellow",
-      "feedeeId": 0,
+      "feedeeId": 139,
       "feederId": 136,
       "charLevel": 15
     },
@@ -2067,7 +2067,7 @@
       "powerTwoColor": "yellow",
       "powerThreeColor": "red",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 139,
       "charLevel": 15
     },
     {
@@ -2081,8 +2081,8 @@
       "powerOneColor": "green",
       "powerTwoColor": "black",
       "powerThreeColor": "yellow",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 139,
+      "feederId": [27,137],
       "charLevel": 70
     },
     {
