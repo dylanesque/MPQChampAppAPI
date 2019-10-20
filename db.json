@@ -717,7 +717,7 @@
       "powerTwoColor": "red",
       "powerThreeColor": "black",
       "feedeeId": 47,
-      "feederId": 0,
+      "feederId":56,
       "charLevel": 70
     },
     {
@@ -762,7 +762,7 @@
       "powerTwoColor": "blue",
       "powerThreeColor": "red",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 72,
       "charLevel": 255
     },
     {
@@ -776,7 +776,7 @@
       "powerOneColor": "purple",
       "powerTwoColor": "blue",
       "powerThreeColor": "black",
-      "feedeeId": 0,
+      "feedeeId": 72,
       "feederId": 53,
       "charLevel": 15
     },
@@ -829,16 +829,16 @@
       "id": 56,
       "name": "The Hood (Classic)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "yellow",
       "powerTwoColor": "blue",
       "powerThreeColor": "black",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 255
+      "feedeeId": 48,
+      "feederId": 0,
+      "charLevel": 40
     },
     {
       "id": 57,
@@ -851,7 +851,7 @@
       "powerOneColor": "red",
       "powerTwoColor": "black",
       "powerThreeColor": "green",
-      "feedeeId": 0,
+      "feedeeId": 58,
       "feederId": 84,
       "charLevel": 40
     },
@@ -859,7 +859,7 @@
       "id": 58,
       "name": "The Hulk (Totally Awesome)",
       "image": "#",
-      "rarity": 3,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
@@ -867,29 +867,29 @@
       "powerTwoColor": "blue",
       "powerThreeColor": "black",
       "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 40
+      "feederId": 57,
+      "charLevel": 70
     },
     {
       "id": 59,
       "name": "The Hulk (Main Event)",
       "image": "#",
-      "rarity": 3,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "green",
       "powerTwoColor": "purple",
       "powerThreeColor": "yellow",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 40
+      "feedeeId": 75,
+      "feederId": 0,
+      "charLevel": 70
     },
     {
       "id": 60,
       "name": "Iceman (All New X-Men)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
@@ -897,8 +897,8 @@
       "powerTwoColor": "blue",
       "powerThreeColor": "purple",
       "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feederId": 87,
+      "charLevel": 70
     },
     {
       "id": 61,
@@ -919,22 +919,22 @@
       "id": 62,
       "name": "Iron Fist (Immortal Weapon)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "green",
       "powerTwoColor": "purple",
       "powerThreeColor": "black",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 255
+      "feedeeId": 63,
+      "feederId": 0,
+      "charLevel": 40
     },
     {
       "id": 63,
       "name": "Iron Fist (Danny Rand)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
@@ -942,7 +942,7 @@
       "powerTwoColor": "green",
       "powerThreeColor": "black",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 62,
       "charLevel": 70
     },
     {
@@ -1032,7 +1032,7 @@
       "powerTwoColor": "black",
       "powerThreeColor": "blue",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 1,
       "charLevel": 255
     },
     {
@@ -1069,15 +1069,15 @@
       "id": 72,
       "name": "Kate Bishop (Hawkeye)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "blue",
       "powerTwoColor": "black",
       "powerThreeColor": "purple",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 51,
+      "feederId": 52,
       "charLevel": 70
     },
     {
@@ -1122,8 +1122,8 @@
       "powerTwoColor": "green",
       "powerThreeColor": "black",
       "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feederId": 59,
+      "charLevel": 255
     },
     {
       "id": 76,
@@ -1294,16 +1294,16 @@
       "id": 87,
       "name": "Mystique (Raven Darkholme)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "purple",
       "powerTwoColor": "blue",
       "powerThreeColor": "black",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feedeeId": 60,
+      "feederId": 0,
+      "charLevel": 40
     },
     {
       "id": 88,
