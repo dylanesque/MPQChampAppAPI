@@ -656,39 +656,39 @@
       "powerOneColor": "purple",
       "powerTwoColor": "red",
       "powerThreeColor": "black",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 100,
+      "feederId": 0,
       "charLevel": 40
     },
     {
       "id": 45,
       "name": "Gamora (Guardians of the Galaxy)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "green",
       "powerTwoColor": "red",
       "powerThreeColor": "black",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feedeeId": 117,
+      "feederId": 0,
+      "charLevel": 40
     },
     {
       "id": 46,
       "name": "Gamora (Awesome Mix Volume 2)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "red",
       "powerTwoColor": "black",
       "powerThreeColor": "blue",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feedeeId": 121,
+      "feederId": 0,
+      "charLevel": 70
     },
     {
       "id": 47,
@@ -732,14 +732,14 @@
       "powerTwoColor": "purple",
       "powerThreeColor": "yellow",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 103,
       "charLevel": 255
     },
     {
       "id": 50,
       "name": "Gwenpool (Gwen Poole)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
@@ -747,8 +747,8 @@
       "powerTwoColor": "black",
       "powerThreeColor": "green",
       "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feederId": 103,
+      "charLevel": 70
     },
     {
       "id": 51,
@@ -814,16 +814,16 @@
       "id": 55,
       "name": "Human Torch (Classic)",
       "image": "#",
-      "rarity": 2,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "red",
       "powerTwoColor": "black",
       "powerThreeColor": "green",
-      "feedeeId": 0,
+      "feedeeId": 123,
       "feederId": 54,
-      "charLevel": 15
+      "charLevel": 40
     },
     {
       "id": 56,
@@ -1107,7 +1107,7 @@
       "powerTwoColor": "purple",
       "powerThreeColor": "yellow",
       "feedeeId": 33,
-      "feederId": 12,
+      "feederId": 17,
       "charLevel": 70
     },
     {
@@ -1129,16 +1129,16 @@
       "id": 76,
       "name": "Loki (Dark Reign)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "black",
       "powerTwoColor": "purple",
       "powerThreeColor": "green",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feedeeId": 129,
+      "feederId": 0,
+      "charLevel": 40
     },
     {
       "id": 77,
@@ -1234,7 +1234,7 @@
       "id": 83,
       "name": "Moon Knight (Marc Spector)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
@@ -1242,8 +1242,8 @@
       "powerTwoColor": "purple",
       "powerThreeColor": "green",
       "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feederId": 104,
+      "charLevel": 70
     },
     {
       "id": 84,
@@ -1467,7 +1467,7 @@
       "powerTwoColor": "green",
       "powerThreeColor": "purple",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 126,
       "charLevel": 15
     },
     {
@@ -1489,7 +1489,7 @@
       "id": 100,
       "name": "Rogue (Classic)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
@@ -1497,8 +1497,8 @@
       "powerTwoColor": "red",
       "powerThreeColor": "yellow",
       "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feederId": 44,
+      "charLevel": 70
     },
     {
       "id": 101,
@@ -1519,7 +1519,7 @@
       "id": 102,
       "name": "Sam Wilson (Captain America)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
@@ -1527,23 +1527,23 @@
       "powerTwoColor": "blue",
       "powerThreeColor": "red",
       "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feederId": 101,
+      "charLevel": 70
     },
     {
       "id": 103,
       "name": "Sandman (Flint Marko)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "green",
       "powerTwoColor": "purple",
       "powerThreeColor": "yellow",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feedeeId": 49,
+      "feederId": 0,
+      "charLevel": 70
     },
     {
       "id": 104,
@@ -1564,31 +1564,31 @@
       "id": 105,
       "name": "Sentry (Dark Avengers)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "red",
       "powerTwoColor": "green",
       "powerThreeColor": "yellow",
-      "feedeeId": 0,
+      "feedeeId": 83,
       "feederId": 12,
-      "charLevel": 15
+      "charLevel": 40
     },
     {
       "id": 106,
       "name": "She-Hulk (Modern)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "blue",
       "powerTwoColor": "green",
       "powerThreeColor": "red",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feedeeId": 50,
+      "feederId": 0,
+      "charLevel": 40
     },
     {
       "id": 107,
@@ -1692,14 +1692,14 @@
       "powerTwoColor": "green",
       "powerThreeColor": "red",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 131,
       "charLevel": 255
     },
     {
       "id": 114,
       "name": "Spider-Woman (Jessica Drew)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
@@ -1707,23 +1707,23 @@
       "powerTwoColor": "purple",
       "powerThreeColor": "red",
       "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feederId": 122,
+      "charLevel": 70
     },
     {
       "id": 115,
       "name": "Squirrel-Girl (Unbeatable)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "yellow",
       "powerTwoColor": "purple",
       "powerThreeColor": "green",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feedeeId": 3,
+      "feederId": 0,
+      "charLevel": 40
     },
     {
       "id": 116,
@@ -1744,7 +1744,7 @@
       "id": 117,
       "name": "Star-Lord (Legendary Outlaw)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
@@ -1752,23 +1752,23 @@
       "powerTwoColor": "yellow",
       "powerThreeColor": "red",
       "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feederId": [45, 118],
+      "charLevel": 40
     },
     {
       "id": 118,
       "name": "Star-Lord (Peter Quill)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "purple",
       "powerTwoColor": "yellow",
       "powerThreeColor": "red",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feedeeId": 117,
+      "feederId": 0,
+      "charLevel": 40
     },
     {
       "id": 119,
@@ -1796,7 +1796,7 @@
       "powerOneColor": "green",
       "powerTwoColor": "yellow",
       "powerThreeColor": "black",
-      "feedeeId": 0,
+      "feedeeId": 124,
       "feederId": 119,
       "charLevel": 15
     },
@@ -1812,29 +1812,29 @@
       "powerTwoColor": "purple",
       "powerThreeColor": "green",
       "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feederId": 46,
+      "charLevel": 255
     },
     {
       "id": 122,
       "name": "Thanos (Modern)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "black",
       "powerTwoColor": "purple",
       "powerThreeColor": "green",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feedeeId": 114,
+      "feederId": 0,
+      "charLevel": 40
     },
     {
       "id": 123,
       "name": "The Thing (Classic)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
@@ -1842,14 +1842,14 @@
       "powerTwoColor": "yellow",
       "powerThreeColor": "green",
       "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feederId": 55,
+      "charLevel": 70
     },
     {
       "id": 124,
       "name": "Thor (Goddess of Thunder)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
@@ -1857,14 +1857,14 @@
       "powerTwoColor": "yellow",
       "powerThreeColor": "blue",
       "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feederId": 120,
+      "charLevel": 255
     },
     {
       "id": 125,
       "name": "Thor (Marvel NOW!)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 2,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
@@ -1886,7 +1886,7 @@
       "powerOneColor": "red",
       "powerTwoColor": "yellow",
       "powerThreeColor": "green",
-      "feedeeId": 0,
+      "feedeeId":98,
       "feederId": 125,
       "charLevel": 40
     },
@@ -1902,29 +1902,29 @@
       "powerTwoColor": "red",
       "powerThreeColor": "yellow",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 128,
       "charLevel": 255
     },
     {
       "id": 128,
       "name": "Valkyrie (Asgardian Warrior)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "red",
       "powerTwoColor": "black",
       "powerThreeColor": "yellow",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feedeeId": 128,
+      "feederId": 0,
+      "charLevel": 70
     },
     {
       "id": 129,
       "name": "Venom (Eddie Brock)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
@@ -1932,8 +1932,8 @@
       "powerTwoColor": "black",
       "powerThreeColor": "yellow",
       "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feederId": 76,
+      "charLevel": 70
     },
     {
       "id": 130,
@@ -1961,8 +1961,8 @@
       "powerOneColor": "black",
       "powerTwoColor": "green",
       "powerThreeColor": "blue",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 113,
+      "feederId": 0,
       "charLevel": 15
     },
     {
@@ -1977,7 +1977,7 @@
       "powerTwoColor": "blue",
       "powerThreeColor": "green",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 96,
       "charLevel": 15
     },
     {
