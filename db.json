@@ -717,7 +717,7 @@
       "powerTwoColor": "red",
       "powerThreeColor": "black",
       "feedeeId": 47,
-      "feederId":56,
+      "feederId": 56,
       "charLevel": 70
     },
     {
@@ -1017,7 +1017,7 @@
       "powerTwoColor": "purple",
       "powerThreeColor": "blue",
       "feedeeId": 0,
-      "feederId": [2,5],
+      "feederId": [2, 5],
       "charLevel": 70
     },
     {
@@ -1054,16 +1054,16 @@
       "id": 71,
       "name": "Kamala Khan (Ms. Marvel)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "yellow",
       "powerTwoColor": "purple",
       "powerThreeColor": "green",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 255
+      "feedeeId": 81,
+      "feederId": 0,
+      "charLevel": 40
     },
     {
       "id": 72,
@@ -1092,8 +1092,8 @@
       "powerTwoColor": "black",
       "powerThreeColor": "purple",
       "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feederId": 82,
+      "charLevel": 255
     },
     {
       "id": 74,
@@ -1144,22 +1144,22 @@
       "id": 77,
       "name": "Luke Cage (Hero For Hire)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "yellow",
       "powerTwoColor": "red",
       "powerThreeColor": "black",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feedeeId": 78,
+      "feederId": 0,
+      "charLevel": 40
     },
     {
       "id": 78,
       "name": "Luke Cage (Power Man)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
@@ -1167,8 +1167,8 @@
       "powerTwoColor": "black",
       "powerThreeColor": "red",
       "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feederId": 77,
+      "charLevel": 70
     },
     {
       "id": 79,
@@ -1189,14 +1189,14 @@
       "id": 80,
       "name": "Magneto (Classic)",
       "image": "#",
-      "rarity": 2,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "red",
       "powerTwoColor": "blue",
       "powerThreeColor": "yellow",
-      "feedeeId": 0,
+      "feedeeId": 92,
       "feederId": 79,
       "charLevel": 40
     },
@@ -1204,31 +1204,31 @@
       "id": 81,
       "name": "Medusa (Inhuman Queen)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "black",
       "powerTwoColor": "purple",
       "powerThreeColor": "green",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feedeeId": 6,
+      "feederId": 71,
+      "charLevel": 70
     },
     {
       "id": 82,
-      "name": "Miles Morales (Spider-Man)",
+      "name": " Miles Morales (Spider-Man)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "purple",
       "powerTwoColor": "yellow",
       "powerThreeColor": "red",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feedeeId": 73,
+      "feederId": 111,
+      "charLevel": 70
     },
     {
       "id": 83,
@@ -1286,8 +1286,8 @@
       "powerOneColor": "blue",
       "powerTwoColor": "yellow",
       "powerThreeColor": "black",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 108,
+      "feederId": 0,
       "charLevel": 70
     },
     {
@@ -1369,7 +1369,7 @@
       "id": 92,
       "name": "Professor X (Charles Xavier)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
@@ -1377,29 +1377,29 @@
       "powerTwoColor": "purple",
       "powerThreeColor": "yellow",
       "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feederId": 80,
+      "charLevel": 70
     },
     {
       "id": 93,
       "name": "The Punisher (Dark Reign)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "black",
       "powerTwoColor": "green",
       "powerThreeColor": "red",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feedeeId": 94,
+      "feederId": 0,
+      "charLevel": 40
     },
     {
       "id": 94,
       "name": "The Punisher (MAX)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
@@ -1408,13 +1408,13 @@
       "powerThreeColor": "blue",
       "feedeeId": 0,
       "feederId": 12,
-      "charLevel": 15
+      "charLevel": 70
     },
     {
       "id": 95,
       "name": "Quake (Daisy Johnson)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
@@ -1423,13 +1423,13 @@
       "powerThreeColor": "blue",
       "feedeeId": 0,
       "feederId": 12,
-      "charLevel": 15
+      "charLevel": 70
     },
     {
       "id": 96,
       "name": "Quicksilver (Pietro Maximoff)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
@@ -1438,7 +1438,7 @@
       "powerThreeColor": "green",
       "feedeeId": 0,
       "feederId": 12,
-      "charLevel": 15
+      "charLevel": 40
     },
     {
       "id": 97,
@@ -1617,7 +1617,7 @@
       "powerTwoColor": "red",
       "powerThreeColor": "black",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 86,
       "charLevel": 255
     },
     {
@@ -1886,7 +1886,7 @@
       "powerOneColor": "red",
       "powerTwoColor": "yellow",
       "powerThreeColor": "green",
-      "feedeeId":98,
+      "feedeeId": 98,
       "feederId": 125,
       "charLevel": 40
     },
@@ -2082,7 +2082,7 @@
       "powerTwoColor": "black",
       "powerThreeColor": "yellow",
       "feedeeId": 139,
-      "feederId": [27,137],
+      "feederId": [27, 137],
       "charLevel": 70
     },
     {
