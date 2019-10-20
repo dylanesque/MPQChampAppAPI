@@ -176,7 +176,7 @@
       "powerOneColor": "purple",
       "powerTwoColor": "green",
       "powerThreeColor": "red",
-      "feedeeId": 0,
+      "feedeeId": 88,
       "feederId": 11,
       "charLevel": 70
     },
@@ -612,7 +612,7 @@
       "powerTwoColor": "purple",
       "powerThreeColor": "red",
       "feedeeId": 116,
-      "feederId": 0,
+      "feederId": 99,
       "charLevel": 70
     },
     {
@@ -1347,8 +1347,8 @@
       "powerTwoColor": "yellow",
       "powerThreeColor": "red",
       "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feederId": 107,
+      "charLevel": 255
     },
     {
       "id": 91,
@@ -1422,7 +1422,7 @@
       "powerTwoColor": "yellow",
       "powerThreeColor": "blue",
       "feedeeId": 0,
-      "feederId": 12,
+      "feederId": 104,
       "charLevel": 70
     },
     {
@@ -1436,8 +1436,8 @@
       "powerOneColor": "black",
       "powerTwoColor": "blue",
       "powerThreeColor": "green",
-      "feedeeId": 0,
-      "feederId": 12,
+      "feedeeId": 132,
+      "feederId": 0,
       "charLevel": 40
     },
     {
@@ -1474,16 +1474,16 @@
       "id": 99,
       "name": "Rocket & Groot (Most Wanted)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "yellow",
       "powerTwoColor": "green",
       "powerThreeColor": "blue",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feedeeId": 41,
+      "feederId": 0,
+      "charLevel": 40
     },
     {
       "id": 100,
@@ -1549,16 +1549,16 @@
       "id": 104,
       "name": "Scarlet Witch (Wanda Maximoff)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "purple",
       "powerTwoColor": "green",
       "powerThreeColor": "blue",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feedeeId": 95,
+      "feederId": 0,
+      "charLevel": 40
     },
     {
       "id": 105,
@@ -1594,16 +1594,16 @@
       "id": 107,
       "name": "Shuri (Master Engineer)",
       "image": "#",
-      "rarity": 5,
+      "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "blue",
       "powerTwoColor": "green",
       "powerThreeColor": "red",
-      "feedeeId": 0,
-      "feederId": 12,
-      "charLevel": 15
+      "feedeeId": 90,
+      "feederId": 0,
+      "charLevel": 70
     },
     {
       "id": 108,
