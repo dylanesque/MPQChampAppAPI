@@ -1396,7 +1396,7 @@
       "charLevel": 40
     },
     {
-      "id": 93,
+      "id": 94,
       "name": "The Punisher (Dark Reign)",
       "image": "#",
       "rarity": 3,
@@ -1406,12 +1406,12 @@
       "powerOneColor": "black",
       "powerTwoColor": "green",
       "powerThreeColor": "red",
-      "feedeeId": 94,
+      "feedeeId": 95,
       "feederId": 0,
       "charLevel": 40
     },
     {
-      "id": 94,
+      "id": 95,
       "name": "The Punisher (MAX)",
       "image": "#",
       "rarity": 4,
@@ -1422,11 +1422,11 @@
       "powerTwoColor": "green",
       "powerThreeColor": "blue",
       "feedeeId": 0,
-      "feederId": 93,
+      "feederId": 94,
       "charLevel": 70
     },
     {
-      "id": 95,
+      "id": 96,
       "name": "Quake (Daisy Johnson)",
       "image": "#",
       "rarity": 4,
@@ -1437,11 +1437,11 @@
       "powerTwoColor": "yellow",
       "powerThreeColor": "blue",
       "feedeeId": 0,
-      "feederId": 104,
+      "feederId": 105,
       "charLevel": 70
     },
     {
-      "id": 96,
+      "id": 97,
       "name": "Quicksilver (Pietro Maximoff)",
       "image": "#",
       "rarity": 3,
@@ -1451,12 +1451,12 @@
       "powerOneColor": "black",
       "powerTwoColor": "blue",
       "powerThreeColor": "green",
-      "feedeeId": 132,
+      "feedeeId": 133,
       "feederId": 0,
       "charLevel": 40
     },
     {
-      "id": 97,
+      "id": 98,
       "name": "Ragnarok (Dark Avengers)",
       "image": "#",
       "rarity": 5,
@@ -1466,12 +1466,12 @@
       "powerOneColor": "blue",
       "powerTwoColor": "green",
       "powerThreeColor": "red",
-      "feedeeId": 140,
+      "feedeeId": 141,
       "feederId": 4,
       "charLevel": 40
     },
     {
-      "id": 98,
+      "id": 99,
       "name": "Red Hulk (Thunderbolt Ross)",
       "image": "#",
       "rarity": 4,
@@ -1482,11 +1482,11 @@
       "powerTwoColor": "green",
       "powerThreeColor": "purple",
       "feedeeId": 0,
-      "feederId": 126,
+      "feederId": 127,
       "charLevel": 70
     },
     {
-      "id": 99,
+      "id": 100,
       "name": "Rocket & Groot (Most Wanted)",
       "image": "#",
       "rarity": 3,
@@ -1501,7 +1501,7 @@
       "charLevel": 40
     },
     {
-      "id": 100,
+      "id": 101,
       "name": "Rogue (Classic)",
       "image": "#",
       "rarity": 4,
@@ -1516,7 +1516,7 @@
       "charLevel": 70
     },
     {
-      "id": 101,
+      "id": 102,
       "name": "Sam Wilson (Falcon)",
       "image": "#",
       "rarity": 3,
@@ -1526,12 +1526,12 @@
       "powerOneColor": "yellow",
       "powerTwoColor": "blue",
       "powerThreeColor": "purple",
-      "feedeeId": 102,
+      "feedeeId": 103,
       "feederId": 0,
       "charLevel": 40
     },
     {
-      "id": 102,
+      "id": 103,
       "name": "Sam Wilson (Captain America)",
       "image": "#",
       "rarity": 4,
@@ -1542,7 +1542,7 @@
       "powerTwoColor": "blue",
       "powerThreeColor": "red",
       "feedeeId": 0,
-      "feederId": 101,
+      "feederId": 102,
       "charLevel": 70
     },
     {
@@ -1571,7 +1571,7 @@
       "powerOneColor": "purple",
       "powerTwoColor": "green",
       "powerThreeColor": "blue",
-      "feedeeId": 95,
+      "feedeeId": 96,
       "feederId": 0,
       "charLevel": 40
     },
@@ -1606,7 +1606,7 @@
       "charLevel": 40
     },
     {
-      "id": 107,
+      "id": 108,
       "name": "Shuri (Master Engineer)",
       "image": "#",
       "rarity": 4,
@@ -1621,7 +1621,7 @@
       "charLevel": 70
     },
     {
-      "id": 108,
+      "id": 109,
       "name": "Silver Surfer (Skyrider)",
       "image": "#",
       "rarity": 5,
@@ -1636,7 +1636,7 @@
       "charLevel": 255
     },
     {
-      "id": 109,
+      "id": 110,
       "name": "Spider-Man (Bag-Man)",
       "image": "#",
       "rarity": 2,
@@ -1651,7 +1651,7 @@
       "charLevel": 15
     },
     {
-      "id": 110,
+      "id": 111,
       "name": "Spider-Man (Back In Black)",
       "image": "#",
       "rarity": 5,
@@ -1662,11 +1662,11 @@
       "powerTwoColor": "green",
       "powerThreeColor": "purple",
       "feedeeId": 0,
-      "feederId": 112,
+      "feederId": 113,
       "charLevel": 255
     },
     {
-      "id": 111,
+      "id": 112,
       "name": "Spider-Man (Classic)",
       "image": "#",
       "rarity": 3,
@@ -1677,11 +1677,11 @@
       "powerTwoColor": "yellow",
       "powerThreeColor": "blue",
       "feedeeId": 82,
-      "feederId": 109,
+      "feederId": 110,
       "charLevel": 40
     },
     {
-      "id": 112,
+      "id": 113,
       "name": "Spider-Man (Infinity War)",
       "image": "#",
       "rarity": 4,
@@ -1691,12 +1691,12 @@
       "powerOneColor": "blue",
       "powerTwoColor": "green",
       "powerThreeColor": "red",
-      "feedeeId": 110,
+      "feedeeId": 111,
       "feederId": 0,
       "charLevel": 70
     },
     {
-      "id": 113,
+      "id": 114,
       "name": "Spider-Man (Peter Parker)",
       "image": "#",
       "rarity": 5,
@@ -1707,11 +1707,11 @@
       "powerTwoColor": "green",
       "powerThreeColor": "red",
       "feedeeId": 0,
-      "feederId": 131,
+      "feederId": 132,
       "charLevel": 255
     },
     {
-      "id": 114,
+      "id": 115,
       "name": "Spider-Woman (Jessica Drew)",
       "image": "#",
       "rarity": 4,
@@ -1722,11 +1722,11 @@
       "powerTwoColor": "purple",
       "powerThreeColor": "red",
       "feedeeId": 0,
-      "feederId": 122,
+      "feederId": 123,
       "charLevel": 70
     },
     {
-      "id": 115,
+      "id": 116,
       "name": "Squirrel-Girl (Unbeatable)",
       "image": "#",
       "rarity": 3,
@@ -1741,7 +1741,7 @@
       "charLevel": 40
     },
     {
-      "id": 116,
+      "id": 117,
       "name": "Star-Lord (Awesome Mix Volume 2)",
       "image": "#",
       "rarity": 5,
@@ -1756,7 +1756,7 @@
       "charLevel": 255
     },
     {
-      "id": 117,
+      "id": 118,
       "name": "Star-Lord (Legendary Outlaw)",
       "image": "#",
       "rarity": 4,
@@ -1767,11 +1767,11 @@
       "powerTwoColor": "yellow",
       "powerThreeColor": "red",
       "feedeeId": 0,
-      "feederId": [45, 118],
+      "feederId": [45, 119],
       "charLevel": 70
     },
     {
-      "id": 118,
+      "id": 117,
       "name": "Star-Lord (Peter Quill)",
       "image": "#",
       "rarity": 3,
@@ -1781,12 +1781,12 @@
       "powerOneColor": "purple",
       "powerTwoColor": "yellow",
       "powerThreeColor": "red",
-      "feedeeId": 117,
+      "feedeeId": 118,
       "feederId": 0,
       "charLevel": 40
     },
     {
-      "id": 119,
+      "id": 120,
       "name": "Storm (Classic)",
       "image": "#",
       "rarity": 2,
@@ -1796,12 +1796,12 @@
       "powerOneColor": "green",
       "powerTwoColor": "blue",
       "powerThreeColor": "yellow",
-      "feedeeId": 120,
+      "feedeeId": 121,
       "feederId": 0,
       "charLevel": 15
     },
     {
-      "id": 120,
+      "id": 121,
       "name": "Storm (Mohawk)",
       "image": "#",
       "rarity": 3,
@@ -1811,12 +1811,12 @@
       "powerOneColor": "green",
       "powerTwoColor": "yellow",
       "powerThreeColor": "black",
-      "feedeeId": 124,
-      "feederId": 119,
+      "feedeeId": 125,
+      "feederId": 120,
       "charLevel": 40
     },
     {
-      "id": 121,
+      "id": 122,
       "name": "Thanos (The Mad Titan)",
       "image": "#",
       "rarity": 5,
@@ -1831,7 +1831,7 @@
       "charLevel": 255
     },
     {
-      "id": 122,
+      "id": 123,
       "name": "Thanos (Modern)",
       "image": "#",
       "rarity": 3,
@@ -1841,12 +1841,12 @@
       "powerOneColor": "black",
       "powerTwoColor": "purple",
       "powerThreeColor": "green",
-      "feedeeId": 114,
+      "feedeeId": 115,
       "feederId": 0,
       "charLevel": 40
     },
     {
-      "id": 123,
+      "id": 124,
       "name": "The Thing (Classic)",
       "image": "#",
       "rarity": 4,
@@ -1861,7 +1861,7 @@
       "charLevel": 70
     },
     {
-      "id": 124,
+      "id": 125,
       "name": "Thor (Goddess of Thunder)",
       "image": "#",
       "rarity": 4,
@@ -1872,11 +1872,11 @@
       "powerTwoColor": "yellow",
       "powerThreeColor": "blue",
       "feedeeId": 0,
-      "feederId": 120,
+      "feederId": 121,
       "charLevel": 70
     },
     {
-      "id": 125,
+      "id": 126,
       "name": "Thor (Marvel NOW!)",
       "image": "#",
       "rarity": 2,
@@ -1886,12 +1886,12 @@
       "powerOneColor": "red",
       "powerTwoColor": "yellow",
       "powerThreeColor": "green",
-      "feedeeId": 126,
+      "feedeeId": 127,
       "feederId": 0,
       "charLevel": 15
     },
     {
-      "id": 126,
+      "id": 127,
       "name": "Thor (Modern)",
       "image": "#",
       "rarity": 3,
@@ -1902,11 +1902,11 @@
       "powerTwoColor": "yellow",
       "powerThreeColor": "green",
       "feedeeId": 98,
-      "feederId": 125,
+      "feederId": 126,
       "charLevel": 40
     },
     {
-      "id": 127,
+      "id": 128,
       "name": "Thor (Gladiator)",
       "image": "#",
       "rarity": 5,
@@ -1917,11 +1917,11 @@
       "powerTwoColor": "red",
       "powerThreeColor": "yellow",
       "feedeeId": 0,
-      "feederId": 128,
+      "feederId": 129,
       "charLevel": 255
     },
     {
-      "id": 128,
+      "id": 129,
       "name": "Valkyrie (Asgardian Warrior)",
       "image": "#",
       "rarity": 4,
@@ -1936,7 +1936,7 @@
       "charLevel": 70
     },
     {
-      "id": 129,
+      "id": 130,
       "name": "Venom (Eddie Brock)",
       "image": "#",
       "rarity": 4,
@@ -1951,7 +1951,7 @@
       "charLevel": 70
     },
     {
-      "id": 130,
+      "id": 131,
       "name": "Vision (Android Avenger)",
       "image": "#",
       "rarity": 3,
@@ -1961,12 +1961,12 @@
       "powerOneColor": "blue",
       "powerTwoColor": "red",
       "powerThreeColor": "yellow",
-      "feedeeId": 134,
+      "feedeeId": 135,
       "feederId": 0,
       "charLevel": 40
     },
     {
-      "id": 131,
+      "id": 132,
       "name": "Vulture (Adrian Toomes)",
       "image": "#",
       "rarity": 4,
@@ -1976,12 +1976,12 @@
       "powerOneColor": "black",
       "powerTwoColor": "green",
       "powerThreeColor": "blue",
-      "feedeeId": 113,
+      "feedeeId": 114,
       "feederId": 0,
       "charLevel": 70
     },
     {
-      "id": 132,
+      "id": 133,
       "name": "War Machine (James Rhodes)",
       "image": "#",
       "rarity": 4,
@@ -1992,11 +1992,11 @@
       "powerTwoColor": "blue",
       "powerThreeColor": "green",
       "feedeeId": 0,
-      "feederId": 96,
+      "feederId": 97,
       "charLevel": 70
     },
     {
-      "id": 133,
+      "id": 134,
       "name": "Wasp (Hope Van Dyne)",
       "image": "#",
       "rarity": 5,
@@ -2011,7 +2011,7 @@
       "charLevel": 255
     },
     {
-      "id": 134,
+      "id": 135,
       "name": "Wasp (Janet Van Dyne)",
       "image": "#",
       "rarity": 4,
@@ -2022,11 +2022,11 @@
       "powerTwoColor": "blue",
       "powerThreeColor": "black",
       "feedeeId": 0,
-      "feederId": 130,
+      "feederId": 131,
       "charLevel": 70
     },
     {
-      "id": 135,
+      "id": 136,
       "name": "Winter Soldier (Bucky Barnes)",
       "image": "#",
       "rarity": 4,
@@ -2041,7 +2041,7 @@
       "charLevel": 70
     },
     {
-      "id": 136,
+      "id": 137,
       "name": "Wolverine (Astonishing X-Men)",
       "image": "#",
       "rarity": 2,
@@ -2051,12 +2051,12 @@
       "powerOneColor": "green",
       "powerTwoColor": "red",
       "powerThreeColor": "yellow",
-      "feedeeId": 137,
+      "feedeeId": 138,
       "feederId": 0,
       "charLevel": 15
     },
     {
-      "id": 137,
+      "id": 138,
       "name": "Wolverine (Patch)",
       "image": "#",
       "rarity": 3,
@@ -2066,12 +2066,12 @@
       "powerOneColor": "green",
       "powerTwoColor": "red",
       "powerThreeColor": "yellow",
-      "feedeeId": 139,
-      "feederId": 136,
+      "feedeeId": 140,
+      "feederId": 137,
       "charLevel": 40
     },
     {
-      "id": 138,
+      "id": 139,
       "name": "Wolverine (Old Man Logan)",
       "image": "#",
       "rarity": 5,
@@ -2082,11 +2082,11 @@
       "powerTwoColor": "yellow",
       "powerThreeColor": "red",
       "feedeeId": 0,
-      "feederId": 139,
+      "feederId": 140,
       "charLevel": 255
     },
     {
-      "id": 139,
+      "id": 140,
       "name": "Wolverine (X-Force)",
       "image": "#",
       "rarity": 4,
@@ -2096,12 +2096,12 @@
       "powerOneColor": "green",
       "powerTwoColor": "black",
       "powerThreeColor": "yellow",
-      "feedeeId": 139,
-      "feederId": [27, 137],
+      "feedeeId": 140,
+      "feederId": [27, 138],
       "charLevel": 70
     },
     {
-      "id": 140,
+      "id": 141,
       "name": "X-23 (All-New Wolverine)",
       "image": "#",
       "rarity": 4,
@@ -2112,7 +2112,7 @@
       "powerTwoColor": "red",
       "powerThreeColor": "purple",
       "feedeeId": 0,
-      "feederId": [31, 97],
+      "feederId": [31, 98],
       "charLevel": 70
     }
   ]
