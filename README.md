@@ -18,7 +18,7 @@ This application will allow users to log in, and edit a database of MPQ characte
 
 **A Note on Changes to the MPQ Reward Structure:**
 
-As of mid-November 2019, MPQ made significant changes to it's reward structure, replacing the Bonus Heroes system with shards, a currency that players acquire from opening certain token types that allow them to make more focused progress towards the characters they want to level. At first, it seemed like this change would make this app obsolete, since the entire initial point was to have a calculator to tell players where to apply their bonus heroes. After reading through the changes carefully, it became clear that this app still has it's place, since the main problem of quickly calculating who is giving the next most useful reward remains. 
+As of mid-November 2019, MPQ made significant changes to it's reward structure, replacing the Bonus Heroes system with shards, a currency that players acquire from opening certain token types that allow them to make more focused progress towards the characters they want to level. At first, it seemed like this change would make this app obsolete, since the entire initial point was to have a calculator to tell players where to apply their bonus heroes. After reading through the changes carefully, it became clear that this app still has it's place, since the main problem of quickly calculating who is receiving the next most useful reward remains. 
 
 EDIT: This change was followed by another large change to the reward structure in December, which made a significant addition to the number of feeders in the game, which will necessitate forthcoming changes to the character database roster and complexity of program logic as it pertains to who feeds who, when and where.
 
@@ -56,7 +56,6 @@ Application flow will work like this:
 **Future Enhancements:**
 
 Some things for me to consider in the future after the MVP is finished:
-
 + Adding server-side rendering, or adding progressive web app functionality. 
 + Creating a version of the app in React Native
 + Deeper logic in the application that accounts for some cover rewards being more useful than others, some characters being more useful than others, and other (very subjective) metrics.
