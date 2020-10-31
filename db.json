@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "America Chavez (Young Avengers)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172993/mpq/america4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -18,7 +18,7 @@
     {
       "id": 2,
       "name": "Angel (All New X-Men)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172993/mpq/angel3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -33,7 +33,7 @@
     {
       "id": 3,
       "name": "Ant-Man (Scott Lang)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172993/mpq/antman4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -48,7 +48,7 @@
     {
       "id": 4,
       "name": "Ares (Dark Avengers)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172994/mpq/ares2.png",
       "rarity": 2,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -63,7 +63,7 @@
     {
       "id": 5,
       "name": "Beast (Classic)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172994/mpq/beast3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -78,7 +78,7 @@
     {
       "id": 6,
       "name": "Black Bolt (Inhuman King)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172994/mpq/blockbolt5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -93,7 +93,7 @@
     {
       "id": 7,
       "name": "Black Panther (Civil War)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172994/mpq/blackpanther5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -108,7 +108,7 @@
     {
       "id": 8,
       "name": "Black Panther (King of Wakanda)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172994/mpq/blackpanther4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -123,7 +123,7 @@
     {
       "id": 9,
       "name": "Black Panther (T'Challa)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172994/mpq/blackpanther3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -138,7 +138,7 @@
     {
       "id": 10,
       "name": "Black Widow (Natasha Romanoff)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172995/mpq/blackwidow5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -153,7 +153,7 @@
     {
       "id": 11,
       "name": "Black Widow (Infinity War)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172995/mpq/blackwidow4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -168,7 +168,7 @@
     {
       "id": 12,
       "name": "Black Widow (Grey Suit)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172995/mpq/blackwidow3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -183,7 +183,7 @@
     {
       "id": 13,
       "name": "Black Widow (Original)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172995/mpq/blackwidow2.png",
       "rarity": 2,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -198,7 +198,7 @@
     {
       "id": 14,
       "name": "Blade (Modern)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172994/mpq/blade4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -213,7 +213,7 @@
     {
       "id": 15,
       "name": "Blade (Daywalker)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172993/mpq/blade3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -228,7 +228,7 @@
     {
       "id": 16,
       "name": "Bullseye (Dark Avengers)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172995/mpq/bullseye2.png",
       "rarity": 2,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -243,7 +243,7 @@
     {
       "id": 17,
       "name": "Bullseye (Classic)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172995/mpq/bullseye3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -258,7 +258,7 @@
     {
       "id": 18,
       "name": "Captain America (The First Avenger)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172995/mpq/captainamerica5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -273,7 +273,7 @@
     {
       "id": 19,
       "name": "Captain America (Infinity War)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173002/mpq/infinitycap5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -288,7 +288,7 @@
     {
       "id": 20,
       "name": "Captain America (Super Soldier)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172995/mpq/captainamerica3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -303,7 +303,7 @@
     {
       "id": 21,
       "name": "Captain America (Steve Rogers)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172995/mpq/captainamerica2.png",
       "rarity": 2,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -318,13 +318,13 @@
     {
       "id": 22,
       "name": "Captain Marvel (Galactic Warrior)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604181720/mpq/captainmarvel5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
       "powerThreeLevel": 0,
       "powerOneColor": "red",
-      "powerTwoColor": "green",      
+      "powerTwoColor": "green",
       "powerThreeColor": "yellow",
       "feedeeId": 0,
       "feederId": 23,
@@ -333,7 +333,7 @@
     {
       "id": 23,
       "name": "Captain Marvel (Carol Danvers)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172995/mpq/captainmarvel4.jpg",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -348,7 +348,7 @@
     {
       "id": 24,
       "name": "Captain Marvel (Modern)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172995/mpq/captainmarvel3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -363,7 +363,7 @@
     {
       "id": 25,
       "name": "Captain Marvel (Ms. Marvel)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172995/mpq/captainmarvel2.png",
       "rarity": 2,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -378,7 +378,7 @@
     {
       "id": 26,
       "name": "Carnage (Cletus Kassady)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172996/mpq/carnage4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -393,7 +393,7 @@
     {
       "id": 27,
       "name": "Colossus (Classic)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172996/mpq/colossus3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -408,7 +408,7 @@
     {
       "id": 28,
       "name": "Cyclops (Classic)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172996/mpq/cyclops4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -423,7 +423,7 @@
     {
       "id": 29,
       "name": "Cyclops (Uncanny X-Men)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172996/mpq/cyclops3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -438,7 +438,7 @@
     {
       "id": 30,
       "name": "Daken (Dark Avengers)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172996/mpq/daken2.png",
       "rarity": 2,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -453,7 +453,7 @@
     {
       "id": 31,
       "name": "Daken (Classic)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172997/mpq/daken3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -468,7 +468,7 @@
     {
       "id": 32,
       "name": "Daredevil (Man Without Fear)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172997/mpq/daredevil3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -483,7 +483,7 @@
     {
       "id": 33,
       "name": "Daredevil (Matt Murdock)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172997/mpq/daredevil5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -498,7 +498,7 @@
     {
       "id": 34,
       "name": "Deadpool (It's Me, Deadpool!)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172997/mpq/deadpool3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -506,14 +506,14 @@
       "powerOneColor": "red",
       "powerTwoColor": "purple",
       "powerThreeColor": "black",
-      "feedeeId": [35, 150]
+      "feedeeId": [35, 150],
       "feederId": 0,
       "charLevel": 40
     },
     {
       "id": 35,
       "name": "Deadpool (Uncanny X-Force)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172997/mpq/deadpool4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -528,7 +528,7 @@
     {
       "id": 36,
       "name": "Doctor Doom (Classic)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172998/mpq/docdoom3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -543,7 +543,7 @@
     {
       "id": 37,
       "name": "Doctor Octopus (Otto Octavius)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172998/mpq/dococtopus3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -558,7 +558,7 @@
     {
       "id": 38,
       "name": "Doctor Octopus (Classic)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172998/mpq/droctopus5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -573,7 +573,7 @@
     {
       "id": 39,
       "name": "Doctor Strange (Stephen Strange)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172998/mpq/drstrnage3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -588,7 +588,7 @@
     {
       "id": 40,
       "name": "Doctor Strange (Sorcerer Supreme)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172998/mpq/drstrange5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -603,7 +603,7 @@
     {
       "id": 41,
       "name": "Drax (The Destroyer)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172998/mpq/drax4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -618,7 +618,7 @@
     {
       "id": 42,
       "name": "Elektra (Assassin)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172999/mpq/elektra3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -633,7 +633,7 @@
     {
       "id": 43,
       "name": "Elektra (Unkillable)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172999/mpq/elektra4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -648,7 +648,7 @@
     {
       "id": 44,
       "name": "Gambit (Modern)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604182471/mpq/gambit3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -663,7 +663,7 @@
     {
       "id": 45,
       "name": "Gamora (Guardians of the Galaxy)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172999/mpq/gamora3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -671,14 +671,14 @@
       "powerOneColor": "green",
       "powerTwoColor": "red",
       "powerThreeColor": "black",
-      "feedeeId": [118,46],
+      "feedeeId": [118, 46],
       "feederId": 0,
       "charLevel": 40
     },
     {
       "id": 46,
       "name": "Gamora (Awesome Mix Volume 2)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172999/mpq/gamora4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -693,7 +693,7 @@
     {
       "id": 47,
       "name": "Ghost Rider (Robbie Reyes)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173000/mpq/ghostrider5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -708,7 +708,7 @@
     {
       "id": 48,
       "name": "Ghost Rider (Johnny Blaze)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173000/mpq/ghostrider4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -723,7 +723,7 @@
     {
       "id": 49,
       "name": "Green Goblin (Norman Osborn)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173000/mpq/greengoblin5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -738,7 +738,7 @@
     {
       "id": 50,
       "name": "Gwenpool (Gwen Poole)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173000/mpq/gwenpool4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -753,7 +753,7 @@
     {
       "id": 51,
       "name": "Hawkeye (Clint Barton)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173001/mpq/hawkeye5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -768,7 +768,7 @@
     {
       "id": 52,
       "name": "Hawkeye (Hawkguy)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173001/mpq/hawkeye3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -783,7 +783,7 @@
     {
       "id": 53,
       "name": "Hawkeye (Modern)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173000/mpq/hawkeye2.png",
       "rarity": 2,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -798,7 +798,7 @@
     {
       "id": 54,
       "name": "Human Torch (Johnny Storm)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173002/mpq/humantorch2.png",
       "rarity": 2,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -813,7 +813,7 @@
     {
       "id": 55,
       "name": "Human Torch (Classic)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173002/mpq/humantorch3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -828,7 +828,7 @@
     {
       "id": 56,
       "name": "The Hood (Classic)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173001/mpq/hood3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -843,7 +843,7 @@
     {
       "id": 57,
       "name": "The Hulk (Indestructible)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173001/mpq/hulk3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -858,7 +858,7 @@
     {
       "id": 58,
       "name": "The Hulk (Totally Awesome)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172996/mpq/chohulk4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -873,7 +873,7 @@
     {
       "id": 59,
       "name": "The Hulk (Main Event)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173001/mpq/hulk4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -888,7 +888,7 @@
     {
       "id": 60,
       "name": "Iceman (All New X-Men)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173002/mpq/iceman4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -903,7 +903,7 @@
     {
       "id": 61,
       "name": "Invisible Woman (Classic)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173003/mpq/iw4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -918,7 +918,7 @@
     {
       "id": 62,
       "name": "Iron Fist (Immortal Weapon)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173002/mpq/ironfist3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -933,7 +933,7 @@
     {
       "id": 63,
       "name": "Iron Fist (Danny Rand)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173002/mpq/ironfist4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -948,7 +948,7 @@
     {
       "id": 64,
       "name": "Iron Man (Mark XLVI)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173003/mpq/ironman5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -963,7 +963,7 @@
     {
       "id": 65,
       "name": "Iron Man (Model 40)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173003/mpq/ironman3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -978,7 +978,7 @@
     {
       "id": 66,
       "name": "Iron Man (Hulkbuster)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173001/mpq/hulkbuster4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -993,7 +993,7 @@
     {
       "id": 67,
       "name": "Jean Grey (Phoenix)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173008/mpq/phoenix5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1008,7 +1008,7 @@
     {
       "id": 68,
       "name": "Jean Grey (All New X-Men)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173003/mpq/jeangrey4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1023,7 +1023,7 @@
     {
       "id": 69,
       "name": "Jessica Jones (Alias Investigations)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173003/mpq/jessicajones5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1038,7 +1038,7 @@
     {
       "id": 70,
       "name": "Jubilee (Uncanny X-Men)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173004/mpq/jubilee4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1053,7 +1053,7 @@
     {
       "id": 71,
       "name": "Kamala Khan (Ms. Marvel)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173007/mpq/msmarvel3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1068,7 +1068,7 @@
     {
       "id": 72,
       "name": "Kate Bishop (Hawkeye)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173004/mpq/katebishop4.jpg",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1083,7 +1083,7 @@
     {
       "id": 73,
       "name": "Kingpin (Spider-Verse)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173004/mpq/kingpin5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1098,7 +1098,7 @@
     {
       "id": 74,
       "name": "Kingpin (Wilson Fisk)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173004/mpq/kingpin4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1113,7 +1113,7 @@
     {
       "id": 75,
       "name": "Loki (God of Mischief)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173005/mpq/loki5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1128,7 +1128,7 @@
     {
       "id": 76,
       "name": "Loki (Dark Reign)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173005/mpq/loki3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1143,7 +1143,7 @@
     {
       "id": 77,
       "name": "Luke Cage (Hero For Hire)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173005/mpq/lukecage3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1158,7 +1158,7 @@
     {
       "id": 78,
       "name": "Luke Cage (Power Man)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173005/mpq/lukecage4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1173,7 +1173,7 @@
     {
       "id": 79,
       "name": "Magneto (Marvel NOW!)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173006/mpq/magneto2.png",
       "rarity": 2,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1188,7 +1188,7 @@
     {
       "id": 80,
       "name": "Magneto (Classic)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173006/mpq/magneto3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1203,7 +1203,7 @@
     {
       "id": 81,
       "name": "Medusa (Inhuman Queen)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173006/mpq/medusa4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1218,7 +1218,7 @@
     {
       "id": 82,
       "name": " Miles Morales (Spider-Man)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173006/mpq/miles4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1233,7 +1233,7 @@
     {
       "id": 83,
       "name": "Moon Knight (Marc Spector)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173006/mpq/moonknight4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1248,7 +1248,7 @@
     {
       "id": 84,
       "name": "Moonstone (Dark Avengers)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173007/mpq/moonstone2.png",
       "rarity": 2,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1263,7 +1263,7 @@
     {
       "id": 85,
       "name": "Mordo (Master of the Mystic Arts)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173007/mpq/mordo4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1278,7 +1278,7 @@
     {
       "id": 86,
       "name": "Mr. Fantastic (Reed Richards)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173007/mpq/mrfantastic4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1293,7 +1293,7 @@
     {
       "id": 87,
       "name": "Mystique (Raven Darkholme)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173007/mpq/mystique3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1308,7 +1308,7 @@
     {
       "id": 88,
       "name": "Nick Fury (Director of S.H.I.E.L.D.)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173007/mpq/nickfury4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1323,7 +1323,7 @@
     {
       "id": 89,
       "name": "Nova (Sam Alexander)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173007/mpq/nova4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1338,7 +1338,7 @@
     {
       "id": 90,
       "name": "Okoye (Warrior General)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173008/mpq/okoye4.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1353,7 +1353,7 @@
     {
       "id": 91,
       "name": "Peggy Carter (Captain America)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173008/mpq/peggycarter4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1368,7 +1368,7 @@
     {
       "id": 92,
       "name": "Professor X (Charles Xavier)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173008/mpq/profx4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1383,7 +1383,7 @@
     {
       "id": 93,
       "name": "Psylocke (Classic)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173009/mpq/psylocke3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1398,7 +1398,7 @@
     {
       "id": 94,
       "name": "The Punisher (Dark Reign)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173008/mpq/punisher3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1413,7 +1413,7 @@
     {
       "id": 95,
       "name": "The Punisher (MAX)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173009/mpq/punisher4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1428,7 +1428,7 @@
     {
       "id": 96,
       "name": "Quake (Daisy Johnson)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173009/mpq/quake4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1443,7 +1443,7 @@
     {
       "id": 97,
       "name": "Quicksilver (Pietro Maximoff)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173009/mpq/quicksilver3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1458,7 +1458,7 @@
     {
       "id": 98,
       "name": "Ragnarok (Dark Avengers)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173009/mpq/raganrok3.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1473,7 +1473,7 @@
     {
       "id": 99,
       "name": "Red Hulk (Thunderbolt Ross)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173009/mpq/redhulk4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1488,7 +1488,7 @@
     {
       "id": 100,
       "name": "Rocket & Groot (Most Wanted)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173000/mpq/grocket3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1503,7 +1503,7 @@
     {
       "id": 101,
       "name": "Rogue (Classic)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173010/mpq/rogue4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1518,7 +1518,7 @@
     {
       "id": 102,
       "name": "Sam Wilson (Falcon)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172999/mpq/falcon3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1533,7 +1533,7 @@
     {
       "id": 103,
       "name": "Sam Wilson (Captain America)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173010/mpq/samwilson4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1548,7 +1548,7 @@
     {
       "id": 104,
       "name": "Sandman (Flint Marko)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173010/mpq/sandman4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1563,7 +1563,7 @@
     {
       "id": 105,
       "name": "Scarlet Witch (Wanda Maximoff)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173010/mpq/scarletwitch3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1578,7 +1578,7 @@
     {
       "id": 106,
       "name": "Sentry (Dark Avengers)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173010/mpq/sentry3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1593,7 +1593,7 @@
     {
       "id": 107,
       "name": "She-Hulk (Modern)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173011/mpq/shehulk3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1608,7 +1608,7 @@
     {
       "id": 108,
       "name": "Shuri (Master Engineer)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173011/mpq/shuri4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1623,7 +1623,7 @@
     {
       "id": 109,
       "name": "Silver Surfer (Skyrider)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173011/mpq/silversurfer5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1638,7 +1638,7 @@
     {
       "id": 110,
       "name": "Spider-Man (Bag-Man)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173011/mpq/spiderman2.png",
       "rarity": 2,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1653,7 +1653,7 @@
     {
       "id": 111,
       "name": "Spider-Man (Back In Black)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172994/mpq/bibsm5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1668,7 +1668,7 @@
     {
       "id": 112,
       "name": "Spider-Man (Classic)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173011/mpq/spiderman3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1683,7 +1683,7 @@
     {
       "id": 113,
       "name": "Spider-Man (Infinity War)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173006/mpq/mcuspiderman4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1698,7 +1698,7 @@
     {
       "id": 114,
       "name": "Spider-Man (Peter Parker)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173012/mpq/spiderman5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1713,7 +1713,7 @@
     {
       "id": 115,
       "name": "Spider-Woman (Jessica Drew)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173012/mpq/spiderwoman4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1728,7 +1728,7 @@
     {
       "id": 116,
       "name": "Squirrel-Girl (Unbeatable)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173012/mpq/squirrelgirl3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1743,7 +1743,7 @@
     {
       "id": 117,
       "name": "Star-Lord (Awesome Mix Volume 2)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173012/mpq/starlord5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1758,7 +1758,7 @@
     {
       "id": 118,
       "name": "Star-Lord (Legendary Outlaw)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173012/mpq/starlord4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1773,7 +1773,7 @@
     {
       "id": 117,
       "name": "Star-Lord (Peter Quill)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173012/mpq/starlord3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1788,7 +1788,7 @@
     {
       "id": 120,
       "name": "Storm (Classic)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604031220/mpq/Storm__28Classic_29.png",
       "rarity": 2,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1803,7 +1803,7 @@
     {
       "id": 121,
       "name": "Storm (Mohawk)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173012/mpq/storm5.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1818,7 +1818,7 @@
     {
       "id": 122,
       "name": "Thanos (The Mad Titan)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173013/mpq/thanos5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1833,7 +1833,7 @@
     {
       "id": 123,
       "name": "Thanos (Modern)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173013/mpq/thanos3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1848,7 +1848,7 @@
     {
       "id": 124,
       "name": "The Thing (Classic)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173013/mpq/thing4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1863,7 +1863,7 @@
     {
       "id": 125,
       "name": "Thor (Goddess of Thunder)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173013/mpq/thor4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1878,7 +1878,7 @@
     {
       "id": 126,
       "name": "Thor (Marvel NOW!)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173013/mpq/thor2.png",
       "rarity": 2,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1893,7 +1893,7 @@
     {
       "id": 127,
       "name": "Thor (Modern)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173014/mpq/thor3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1908,7 +1908,7 @@
     {
       "id": 128,
       "name": "Thor (Gladiator)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173014/mpq/thor5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1923,7 +1923,7 @@
     {
       "id": 129,
       "name": "Valkyrie (Asgardian Warrior)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173014/mpq/valkyrie4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1938,7 +1938,7 @@
     {
       "id": 130,
       "name": "Venom (Eddie Brock)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173014/mpq/venom4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1953,7 +1953,7 @@
     {
       "id": 131,
       "name": "Vision (Android Avenger)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173014/mpq/vision3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1968,7 +1968,7 @@
     {
       "id": 132,
       "name": "Vulture (Adrian Toomes)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173014/mpq/vulture4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1983,7 +1983,7 @@
     {
       "id": 133,
       "name": "War Machine (James Rhodes)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173015/mpq/warmachine4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -1998,7 +1998,7 @@
     {
       "id": 134,
       "name": "Wasp (Hope Van Dyne)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173015/mpq/wasp5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2013,7 +2013,7 @@
     {
       "id": 135,
       "name": "Wasp (Janet Van Dyne)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173015/mpq/wasp4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2028,7 +2028,7 @@
     {
       "id": 136,
       "name": "Winter Soldier (Bucky Barnes)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173015/mpq/wintersoldier4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2043,7 +2043,7 @@
     {
       "id": 137,
       "name": "Wolverine (Astonishing X-Men)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173016/mpq/wolverine2.png",
       "rarity": 2,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2058,7 +2058,7 @@
     {
       "id": 138,
       "name": "Wolverine (Patch)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173016/mpq/wolverine3.png",
       "rarity": 3,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2073,7 +2073,7 @@
     {
       "id": 139,
       "name": "Wolverine (Old Man Logan)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173008/mpq/oldmanlogan5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2088,7 +2088,7 @@
     {
       "id": 140,
       "name": "Wolverine (X-Force)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173016/mpq/wolverine4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2103,7 +2103,7 @@
     {
       "id": 141,
       "name": "X-23 (All-New Wolverine)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173017/mpq/x234.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2118,7 +2118,7 @@
     {
       "id": 142,
       "name": "Nightcrawler (Classic)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173007/mpq/nightcrawler4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2133,7 +2133,7 @@
     {
       "id": 143,
       "name": "Archangel (Classic)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172993/mpq/archangel5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2148,7 +2148,7 @@
     {
       "id": 144,
       "name": "Captain America(Worthy)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173016/mpq/worthycap4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2163,7 +2163,7 @@
     {
       "id": 145,
       "name": "Talos (Skrull Warlord)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173013/mpq/talos4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2178,7 +2178,7 @@
     {
       "id": 146,
       "name": "Magik (Classic)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173005/mpq/magik4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2193,7 +2193,7 @@
     {
       "id": 147,
       "name": "Hela (Goddess of Death)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173001/mpq/hela5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2208,7 +2208,7 @@
     {
       "id": 148,
       "name": "Emma Frost (AStonishing X-Men)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172999/mpq/emmafrost4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2223,7 +2223,7 @@
     {
       "id": 149,
       "name": "Kitty Pryde (Uncanny X-Men)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173004/mpq/kittypryde5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2238,7 +2238,7 @@
     {
       "id": 150,
       "name": "Domino (X-Force)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172998/mpq/domino4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2253,7 +2253,7 @@
     {
       "id": 151,
       "name": "Dazzler (Classic)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172997/mpq/dazzler4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2268,7 +2268,7 @@
     {
       "id": 152,
       "name": "The Hulk (Bruce Banner)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172994/mpq/brucebanner5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2283,7 +2283,7 @@
     {
       "id": 153,
       "name": "Hawkeye (Ronin)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173010/mpq/rogue4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2298,7 +2298,7 @@
     {
       "id": 154,
       "name": "Human Torch (Jim Hammond)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173003/mpq/jimhammond4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2312,8 +2312,8 @@
     },
     {
       "id": 155,
-      "name": "Riri Williams (Ironheart",
-      "image": "#",
+      "name": "Riri Williams (Ironheart)",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173003/mpq/ironheart4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2328,7 +2328,7 @@
     {
       "id": 156,
       "name": "Lockjaw (Royal Bulldog)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173005/mpq/lockjaw4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2343,7 +2343,7 @@
     {
       "id": 157,
       "name": "Mysterio (Quentin Beck)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173007/mpq/mysterio4.jpg",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2358,7 +2358,7 @@
     {
       "id": 158,
       "name": "Iceman (Bobby Drake)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173002/mpq/iceman5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2373,7 +2373,7 @@
     {
       "id": 159,
       "name": "Doctor Doom (God Emperor)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604172998/mpq/docdoom5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2388,7 +2388,7 @@
     {
       "id": 159,
       "name": "Rescue (Pepper Potts)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173009/mpq/rescue5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2403,7 +2403,7 @@
     {
       "id": 160,
       "name": "Professor X (Classic)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173008/mpq/profx5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2417,8 +2417,8 @@
     },
     {
       "id": 161,
-      "name": "Gambit (Modern)",
-      "image": "#",
+      "name": "Gambit (Classic)",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173000/mpq/ganbit5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2433,7 +2433,7 @@
     {
       "id": 162,
       "name": "Storm (Ororo Munroe)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173012/mpq/storm5.png",
       "rarity": 5,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2448,7 +2448,7 @@
     {
       "id": 163,
       "name": "Juggernaut (Fear Itself)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173004/mpq/juggernaut5.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2463,7 +2463,7 @@
     {
       "id": 164,
       "name": "Rocket & Groot (Awesome Mix Volume 2)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173000/mpq/grocket4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2476,54 +2476,54 @@
       "charLevel": 70
     },
     {
-        "id": 165,
-        "name": "Wiccan (Billy Kaplan)",
-        "image": "#",
-        "rarity": 4,
-        "powerOneLevel": 0,
-        "powerTwoLevel": 0,
-        "powerThreeLevel": 0,
-        "powerOneColor": "blue",
-        "powerTwoColor": "yellow",
-        "powerThreeColor": "green",
-        "feedeeId": 0,
-        "feederId": 105,
-        "charLevel": 70
-      },
-      {
-        "id": 166,
-        "name": "Kraven (Sergei Kravinoff)",
-        "image": "#",
-        "rarity": 4,
-        "powerOneLevel": 0,
-        "powerTwoLevel": 0,
-        "powerThreeLevel": 0,
-        "powerOneColor": "black",
-        "powerTwoColor": "purple",
-        "powerThreeColor": "blue",
-        "feedeeId": 0,
-        "feederId": 116,
-        "charLevel": 70
-      },
-      {
-        "id": 167,
-        "name": "Yondu (Awesome Mix Volume 2)",
-        "image": "#",
-        "rarity": 4,
-        "powerOneLevel": 0,
-        "powerTwoLevel": 0,
-        "powerThreeLevel": 0,
-        "powerOneColor": "yellow",
-        "powerTwoColor": "black",
-        "powerThreeColor": "blue",
-        "feedeeId": 0,
-        "feederId": 118,
-        "charLevel": 70
-      },
-      {
+      "id": 165,
+      "name": "Wiccan (Billy Kaplan)",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173015/mpq/wiccan4.png",
+      "rarity": 4,
+      "powerOneLevel": 0,
+      "powerTwoLevel": 0,
+      "powerThreeLevel": 0,
+      "powerOneColor": "blue",
+      "powerTwoColor": "yellow",
+      "powerThreeColor": "green",
+      "feedeeId": 0,
+      "feederId": 105,
+      "charLevel": 70
+    },
+    {
+      "id": 166,
+      "name": "Kraven (Sergei Kravinoff)",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173005/mpq/kraven4.png",
+      "rarity": 4,
+      "powerOneLevel": 0,
+      "powerTwoLevel": 0,
+      "powerThreeLevel": 0,
+      "powerOneColor": "black",
+      "powerTwoColor": "purple",
+      "powerThreeColor": "blue",
+      "feedeeId": 0,
+      "feederId": 116,
+      "charLevel": 70
+    },
+    {
+      "id": 167,
+      "name": "Yondu (Awesome Mix Volume 2)",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173016/mpq/yondu4.jpg",
+      "rarity": 4,
+      "powerOneLevel": 0,
+      "powerTwoLevel": 0,
+      "powerThreeLevel": 0,
+      "powerOneColor": "yellow",
+      "powerTwoColor": "black",
+      "powerThreeColor": "blue",
+      "feedeeId": 0,
+      "feederId": 118,
+      "charLevel": 70
+    },
+    {
       "id": 168,
       "name": "Thanos (Endgame)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173013/mpq/thanos4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2535,10 +2535,10 @@
       "feederId": 123,
       "charLevel": 70
     },
-      {
+    {
       "id": 169,
       "name": "Sabretooth (Victor Creed)",
-      "image": "#",
+      "image": "https://res.cloudinary.com/msccloud-40/image/upload/v1604173010/mpq/sabretooth4.png",
       "rarity": 4,
       "powerOneLevel": 0,
       "powerTwoLevel": 0,
@@ -2551,5 +2551,4 @@
       "charLevel": 70
     }
   ]
-
 }
